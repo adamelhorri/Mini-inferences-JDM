@@ -1,0 +1,4777 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "4": {
+            "ntname": "'n_pos'"
+        },
+        "10": {
+            "ntname": "'n_relation'"
+        },
+        "18": {
+            "ntname": "'n_data'"
+        },
+        "36": {
+            "ntname": "'n_data_pot'"
+        },
+        "444": {
+            "ntname": "'n_link'"
+        },
+        "777": {
+            "ntname": "'n_wikipedia'"
+        }
+    },
+    "e": {
+        "51048": {
+            "name": "'panda'",
+            "type": "1",
+            "w": "116"
+        },
+        "239128": {
+            "name": "'_COM'",
+            "type": "36",
+            "w": "50"
+        },
+        "2983124": {
+            "name": "'_SW'",
+            "type": "36",
+            "w": "50"
+        },
+        "15838478": {
+            "name": "':r2842953'",
+            "type": "10",
+            "w": "0"
+        },
+        "241794": {
+            "name": "'_POL-NEUTRE'",
+            "type": "36",
+            "w": "50"
+        },
+        "164047": {
+            "name": "'ursid\u00e9'",
+            "type": "1",
+            "w": "162"
+        },
+        "28453": {
+            "name": "'bonheur'",
+            "type": "1",
+            "w": "2830"
+        },
+        "223173": {
+            "name": "'_POL-POS'",
+            "type": "36",
+            "w": "50"
+        },
+        "143291": {
+            "name": "'Chine'",
+            "type": "1",
+            "w": "3807"
+        },
+        "14330": {
+            "name": "'satisfaction'",
+            "type": "1",
+            "w": "642"
+        },
+        "91691": {
+            "name": "'surprise'",
+            "type": "1",
+            "w": "2464"
+        },
+        "42456": {
+            "name": "'bambou'",
+            "type": "1",
+            "w": "154"
+        },
+        "63235": {
+            "name": "'mammif\u00e8re'",
+            "type": "1",
+            "w": "3699"
+        },
+        "128961": {
+            "name": "'mignon'",
+            "type": "1",
+            "w": "502"
+        },
+        "17206": {
+            "name": "'ours'",
+            "type": "1",
+            "w": "996"
+        },
+        "48855": {
+            "name": "'carnivore'",
+            "type": "1",
+            "w": "1580"
+        },
+        "265839": {
+            "name": "'synapside'",
+            "type": "1",
+            "w": "30"
+        },
+        "110773": {
+            "name": "'amniote'",
+            "type": "1",
+            "w": "82"
+        },
+        "91794": {
+            "name": "'t\u00e9trapode'",
+            "type": "1",
+            "w": "96"
+        },
+        "101018": {
+            "name": "'gnathostome'",
+            "type": "1",
+            "w": "84"
+        },
+        "86640": {
+            "name": "'vert\u00e9br\u00e9'",
+            "type": "1",
+            "w": "932"
+        },
+        "265277": {
+            "name": "'cr\u00e2niate'",
+            "type": "1",
+            "w": "64"
+        },
+        "264881": {
+            "name": "'cr\u00e2ni\u00e9'",
+            "type": "1",
+            "w": "56"
+        },
+        "317929": {
+            "name": "'olfactorien'",
+            "type": "1",
+            "w": "42"
+        },
+        "142602": {
+            "name": "'cord\u00e9'",
+            "type": "1",
+            "w": "120"
+        },
+        "330964": {
+            "name": "'cord\u00e9&gt;117095'",
+            "type": "1",
+            "w": "36",
+            "formated name": "'cord\u00e9&gt;zoologie'"
+        },
+        "248081": {
+            "name": "'chord\u00e9'",
+            "type": "1",
+            "w": "230"
+        },
+        "15871032": {
+            "name": "':r413691572'",
+            "type": "10",
+            "w": "0"
+        },
+        "265220": {
+            "name": "'\u00e9pineurien'",
+            "type": "1",
+            "w": "22"
+        },
+        "17559": {
+            "name": "'animal'",
+            "type": "1",
+            "w": "14375"
+        },
+        "115304": {
+            "name": "'deut\u00e9rostomien'",
+            "type": "1",
+            "w": "114"
+        },
+        "231782": {
+            "name": "'panda g\u00e9ant'",
+            "type": "1",
+            "w": "36"
+        },
+        "264880": {
+            "name": "'bilat\u00e9rien'",
+            "type": "1",
+            "w": "80"
+        },
+        "264908": {
+            "name": "'eum\u00e9tazoaire'",
+            "type": "1",
+            "w": "80"
+        },
+        "42313": {
+            "name": "'Asie'",
+            "type": "1",
+            "w": "3251"
+        },
+        "54275": {
+            "name": "'petit panda'",
+            "type": "1",
+            "w": "56"
+        },
+        "111848": {
+            "name": "'grand panda'",
+            "type": "1",
+            "w": "50"
+        },
+        "242966": {
+            "name": "'diplomatie du panda'",
+            "type": "1",
+            "w": "50"
+        },
+        "233133": {
+            "name": "'animal&gt;117095'",
+            "type": "1",
+            "w": "914",
+            "formated name": "'animal&gt;zoologie'"
+        },
+        "55823": {
+            "name": "'m\u00e9tazoaire'",
+            "type": "1",
+            "w": "176"
+        },
+        "325741": {
+            "name": "'choanobionte'",
+            "type": "1",
+            "w": "78"
+        },
+        "329657": {
+            "name": "'choano-organisme'",
+            "type": "1",
+            "w": "62"
+        },
+        "325738": {
+            "name": "'filozoaire'",
+            "type": "1",
+            "w": "86"
+        },
+        "52611": {
+            "name": "'zoo'",
+            "type": "1",
+            "w": "1326"
+        },
+        "146632": {
+            "name": "'for\u00eat'",
+            "type": "1",
+            "w": "4619"
+        },
+        "325736": {
+            "name": "'holozoaire'",
+            "type": "1",
+            "w": "60"
+        },
+        "325731": {
+            "name": "'opisthoconte'",
+            "type": "1",
+            "w": "76"
+        },
+        "325728": {
+            "name": "'uniconte'",
+            "type": "1",
+            "w": "42"
+        },
+        "95563": {
+            "name": "'Tibet'",
+            "type": "1",
+            "w": "1802"
+        },
+        "54794": {
+            "name": "'eucaryote'",
+            "type": "1",
+            "w": "194"
+        },
+        "225847": {
+            "name": "'organisme&gt;71624'",
+            "type": "1",
+            "w": "104",
+            "formated name": "'organisme&gt;\u00eatre vivant'"
+        },
+        "237445": {
+            "name": "'\u00eatre&gt;68439'",
+            "type": "1",
+            "w": "36",
+            "formated name": "'\u00eatre&gt;individu'"
+        },
+        "234036": {
+            "name": "'\u00eatre vivant&gt;123933'",
+            "type": "1",
+            "w": "278",
+            "formated name": "'\u00eatre vivant&gt;entit\u00e9'"
+        },
+        "65081": {
+            "name": "'organisme vivant'",
+            "type": "1",
+            "w": "154"
+        },
+        "15900646": {
+            "name": "':r414013635'",
+            "type": "10",
+            "w": "0"
+        },
+        "171870": {
+            "name": "'Nom:'",
+            "type": "4",
+            "w": "50"
+        },
+        "260820": {
+            "name": "'entit\u00e9 vivante'",
+            "type": "1",
+            "w": "70"
+        },
+        "143607": {
+            "name": "'nature'",
+            "type": "1",
+            "w": "3668"
+        },
+        "224979": {
+            "name": "'for\u00eat de bambou'",
+            "type": "1",
+            "w": "52"
+        },
+        "117095": {
+            "name": "'zoologie'",
+            "type": "1",
+            "w": "2456"
+        },
+        "71624": {
+            "name": "'\u00eatre vivant'",
+            "type": "1",
+            "w": "1904"
+        },
+        "103872": {
+            "name": "'Sichuan'",
+            "type": "1",
+            "w": "56"
+        },
+        "140362": {
+            "name": "'chine'",
+            "type": "1",
+            "w": "96"
+        },
+        "61655": {
+            "name": "'bambouseraie'",
+            "type": "1",
+            "w": "60"
+        },
+        "17023": {
+            "name": "'cage'",
+            "type": "1",
+            "w": "990"
+        },
+        "58170": {
+            "name": "'hauteur'",
+            "type": "1",
+            "w": "3399"
+        },
+        "12831": {
+            "name": "'montagne'",
+            "type": "1",
+            "w": "4325"
+        },
+        "83208": {
+            "name": "'cirque'",
+            "type": "1",
+            "w": "1882"
+        },
+        "130164": {
+            "name": "'manger'",
+            "type": "1",
+            "w": "10556"
+        },
+        "43253": {
+            "name": "'dormir'",
+            "type": "1",
+            "w": "6704"
+        },
+        "213675": {
+            "name": "'ours&gt;17559'",
+            "type": "1",
+            "w": "110",
+            "formated name": "'ours&gt;animal'"
+        },
+        "86215181": {
+            "name": "':r515261389'",
+            "type": "10",
+            "w": "0"
+        },
+        "109319820": {
+            "name": "':r2966299'",
+            "type": "10",
+            "w": "0"
+        },
+        "2923439": {
+            "name": "'panda \u00e9clatant'",
+            "type": "1",
+            "w": "2"
+        },
+        "69092": {
+            "name": "'raton laveur'",
+            "type": "1",
+            "w": "102"
+        },
+        "2923438": {
+            "name": "'panda fuligineux'",
+            "type": "1",
+            "w": "2"
+        },
+        "103405": {
+            "name": "'indiff\u00e9rence'",
+            "type": "1",
+            "w": "674"
+        },
+        "146885": {
+            "name": "'Nom:Mas+SG'",
+            "type": "4",
+            "w": "50"
+        },
+        "233198": {
+            "name": "'boire&gt;86872'",
+            "type": "1",
+            "w": "122",
+            "formated name": "'boire&gt;se d\u00e9salt\u00e9rer'"
+        },
+        "7943": {
+            "name": "'tuer'",
+            "type": "1",
+            "w": "4472"
+        },
+        "33882": {
+            "name": "'se nourrir'",
+            "type": "1",
+            "w": "456"
+        },
+        "56280": {
+            "name": "'oreille'",
+            "type": "1",
+            "w": "1951"
+        },
+        "163012": {
+            "name": "'_INFO-NO-MORE-QUESTION'",
+            "type": "36",
+            "w": "6094"
+        },
+        "144846": {
+            "name": "'t\u00eate'",
+            "type": "1",
+            "w": "6041"
+        },
+        "151867": {
+            "name": "'pattes'",
+            "type": "1",
+            "w": "2283"
+        },
+        "146396": {
+            "name": "'Japon'",
+            "type": "1",
+            "w": "3746"
+        },
+        "3178975": {
+            "name": "'signe du panda'",
+            "type": "1",
+            "w": "0"
+        },
+        "191669": {
+            "name": "'_INFO-SEM-LIVING-BEING'",
+            "type": "36",
+            "w": "160"
+        },
+        "254877": {
+            "name": "'_POL-NEUTRE_PC'",
+            "type": "36",
+            "w": "50"
+        },
+        "224422": {
+            "name": "'manger&gt;113902&gt;119570'",
+            "type": "1",
+            "w": "212",
+            "formated name": "'manger&gt;alimentation&gt;absorber'"
+        },
+        "17138367": {
+            "name": "'fourmi-panda'",
+            "type": "1",
+            "w": "0"
+        },
+        "16949315": {
+            "name": "'panda eyes'",
+            "type": "777",
+            "w": "0"
+        },
+        "59303": {
+            "name": "'se d\u00e9placer'",
+            "type": "1",
+            "w": "740"
+        },
+        "4653": {
+            "name": "'courir'",
+            "type": "1",
+            "w": "2224"
+        },
+        "16964": {
+            "name": "'marcher'",
+            "type": "1",
+            "w": "2630"
+        },
+        "139304": {
+            "name": "'s'accoupler'",
+            "type": "1",
+            "w": "166"
+        },
+        "261960": {
+            "name": "'esp\u00e8ce menac\u00e9e'",
+            "type": "1",
+            "w": "44"
+        },
+        "9730198": {
+            "name": "'b\u00e9b\u00e9 panda'",
+            "type": "1",
+            "w": "0"
+        },
+        "68979": {
+            "name": "'ronger'",
+            "type": "1",
+            "w": "200"
+        },
+        "92304": {
+            "name": "'grimper'",
+            "type": "1",
+            "w": "630"
+        },
+        "71926": {
+            "name": "'insecte'",
+            "type": "1",
+            "w": "3844"
+        },
+        "2476987": {
+            "name": "'panda roux'",
+            "type": "1",
+            "w": "2"
+        },
+        "10443070": {
+            "name": "'sanctuaires du grand panda du Sichuan'",
+            "type": "777",
+            "w": "0"
+        },
+        "94312": {
+            "name": "'ailurope'",
+            "type": "1",
+            "w": "50"
+        },
+        "254876": {
+            "name": "'_POL-POS_PC'",
+            "type": "36",
+            "w": "50"
+        },
+        "2586627": {
+            "name": "'Gender:Mas'",
+            "type": "4",
+            "w": "0"
+        },
+        "2586629": {
+            "name": "'Number:Sing'",
+            "type": "4",
+            "w": "0"
+        },
+        "47918": {
+            "name": "'boire'",
+            "type": "1",
+            "w": "4658"
+        },
+        "5893568": {
+            "name": "'panda nain'",
+            "type": "777",
+            "w": "0"
+        },
+        "5900309": {
+            "name": "'Corydoras panda'",
+            "type": "777",
+            "w": "0"
+        },
+        "5907633": {
+            "name": "'Streblote panda'",
+            "type": "777",
+            "w": "0"
+        },
+        "276096": {
+            "name": "'_INFO-WIKI-YES'",
+            "type": "36",
+            "w": "50"
+        },
+        "14049844": {
+            "name": "'organisme vivant h\u00e9t\u00e9rotrophe'",
+            "type": "1",
+            "w": "0"
+        },
+        "5893084": {
+            "name": "'panda de Qinling'",
+            "type": "777",
+            "w": "0"
+        },
+        "10954565": {
+            "name": "'fourmi panda'",
+            "type": "777",
+            "w": "0"
+        },
+        "7332979": {
+            "name": "'Langue:anglais'",
+            "type": "18",
+            "w": "50"
+        },
+        "183859986": {
+            "name": "':r579906173'",
+            "type": "10",
+            "w": "0"
+        },
+        "200111103": {
+            "name": "':r2809618'",
+            "type": "10",
+            "w": "0"
+        },
+        "143669": {
+            "name": "'vert\u00e9br\u00e9s'",
+            "type": "1",
+            "w": "80"
+        },
+        "2578964": {
+            "name": "'Langage:vieilli'",
+            "type": "18",
+            "w": "0"
+        },
+        "151856": {
+            "name": "'noir et blanc'",
+            "type": "1",
+            "w": "304"
+        },
+        "15065704": {
+            "name": "'en:Ailuropoda melanoleuca'",
+            "type": "1",
+            "w": "0"
+        },
+        "128529": {
+            "name": "'WWF'",
+            "type": "1",
+            "w": "64"
+        },
+        "14916413": {
+            "name": "'Langue:fran\u00e7ais'",
+            "type": "18",
+            "w": "50"
+        },
+        "92189": {
+            "name": "'nounours'",
+            "type": "1",
+            "w": "298"
+        },
+        "233138": {
+            "name": "'t\u00eate&gt;390963'",
+            "type": "1",
+            "w": "82",
+            "formated name": "'t\u00eate&gt;extr\u00e9mit\u00e9 sup\u00e9rieure du corps'"
+        },
+        "6947917": {
+            "name": "'en:vertebrata'",
+            "type": "1",
+            "w": "0"
+        },
+        "175720": {
+            "name": "'Mammalia'",
+            "type": "1",
+            "w": "50"
+        },
+        "267642": {
+            "name": "'organisme animal'",
+            "type": "1",
+            "w": "4"
+        },
+        "364788": {
+            "name": "'monde animal'",
+            "type": "1",
+            "w": "50"
+        },
+        "14944747": {
+            "name": "'en:zoological garden'",
+            "type": "1",
+            "w": "0"
+        },
+        "242186": {
+            "name": "'mignon&gt;16366'",
+            "type": "1",
+            "w": "28",
+            "formated name": "'mignon&gt;attendrissant'"
+        },
+        "46164": {
+            "name": "'carnivores'",
+            "type": "1",
+            "w": "56"
+        },
+        "396042": {
+            "name": "'t\u00e9trapode&gt;86640'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'t\u00e9trapode&gt;vert\u00e9br\u00e9'"
+        },
+        "14049840": {
+            "name": "'organisme vivant pluricellulaire'",
+            "type": "1",
+            "w": "0"
+        },
+        "12791689": {
+            "name": "'acide d\u00e9soxyribo-nucl\u00e9ique'",
+            "type": "1",
+            "w": "0"
+        },
+        "6800176": {
+            "name": "'en:heart'",
+            "type": "1",
+            "w": "0"
+        },
+        "43601": {
+            "name": "'se reproduire'",
+            "type": "1",
+            "w": "524"
+        },
+        "317329": {
+            "name": "'_POLIT_7NOPOL'",
+            "type": "36",
+            "w": "50"
+        },
+        "15091829": {
+            "name": "'en:Ailurus fulgens'",
+            "type": "1",
+            "w": "0"
+        },
+        "14952820": {
+            "name": "'en:panda'",
+            "type": "1",
+            "w": "0"
+        },
+        "437800": {
+            "name": "'mammif\u00e8re herbivore'",
+            "type": "1",
+            "w": "50"
+        },
+        "14049831": {
+            "name": "'organisme vivant pluricellulaire h\u00e9t\u00e9rotrophe'",
+            "type": "1",
+            "w": "6"
+        },
+        "77008": {
+            "name": "'yeux'",
+            "type": "1",
+            "w": "4653"
+        },
+        "47319": {
+            "name": "'colonne vert\u00e9brale'",
+            "type": "1",
+            "w": "382"
+        },
+        "32735": {
+            "name": "'poumons'",
+            "type": "1",
+            "w": "435"
+        },
+        "116980": {
+            "name": "'squelette'",
+            "type": "1",
+            "w": "1272"
+        },
+        "390927": {
+            "name": "'t\u00eate&gt;112609'",
+            "type": "1",
+            "w": "72",
+            "formated name": "'t\u00eate&gt;anatomie'"
+        },
+        "16747": {
+            "name": "'adn'",
+            "type": "1",
+            "w": "164"
+        },
+        "217817": {
+            "name": "'_INFO-POLYSEMIC'",
+            "type": "36",
+            "w": "50"
+        },
+        "50233540": {
+            "name": "'_INFO-WORDREF-YES'",
+            "type": "36",
+            "w": "50"
+        },
+        "3228593": {
+            "name": "'wiki:@'",
+            "type": "444",
+            "w": "0"
+        },
+        "11008328": {
+            "name": "'ADN&gt;30051'",
+            "type": "1",
+            "w": "22",
+            "formated name": "'ADN&gt;code g\u00e9n\u00e9tique'"
+        },
+        "120157": {
+            "name": "'r\u00e8gne animal'",
+            "type": "1",
+            "w": "106"
+        },
+        "15781381": {
+            "name": "'vrai m\u00e9tazoaire'",
+            "type": "1",
+            "w": "0"
+        },
+        "126285": {
+            "name": "'dos'",
+            "type": "1",
+            "w": "2924"
+        },
+        "36886": {
+            "name": "'faune'",
+            "type": "1",
+            "w": "2233"
+        },
+        "14944748": {
+            "name": "'en:zoo'",
+            "type": "1",
+            "w": "0"
+        },
+        "3575927": {
+            "name": "'Morpho:min'",
+            "type": "18",
+            "w": "50"
+        },
+        "15991431": {
+            "name": "'_PROP-ANIME-YES'",
+            "type": "36",
+            "w": "50"
+        },
+        "5933353": {
+            "name": "'Panda'",
+            "type": "1",
+            "w": "0"
+        },
+        "247057": {
+            "name": "'sym\u00e9trie bilat\u00e9rale'",
+            "type": "1",
+            "w": "10"
+        },
+        "152125": {
+            "name": "'Zoologie'",
+            "type": "1",
+            "w": "210"
+        },
+        "71539": {
+            "name": "'animaux'",
+            "type": "1",
+            "w": "3501"
+        },
+        "32851": {
+            "name": "'mammif\u00e8res'",
+            "type": "1",
+            "w": "2115"
+        },
+        "50867953": {
+            "name": "'sorte d'ours noir et blanc'",
+            "type": "1",
+            "w": "0"
+        },
+        "14940408": {
+            "name": "'en:gnathostome'",
+            "type": "1",
+            "w": "0"
+        },
+        "225934": {
+            "name": "'oeil&gt;330323'",
+            "type": "1",
+            "w": "268",
+            "formated name": "'oeil&gt;organe de la vue'"
+        },
+        "152844": {
+            "name": "'sang chaud'",
+            "type": "1",
+            "w": "90"
+        },
+        "187620": {
+            "name": "'patte post\u00e9rieure'",
+            "type": "1",
+            "w": "6"
+        },
+        "11405719": {
+            "name": "'heart'",
+            "type": "1",
+            "w": "0"
+        },
+        "398564": {
+            "name": "'m\u00e2choires'",
+            "type": "1",
+            "w": "56"
+        },
+        "15080161": {
+            "name": "'en:animal kingdom'",
+            "type": "1",
+            "w": "0"
+        },
+        "202281": {
+            "name": "'jardin zoologique'",
+            "type": "1",
+            "w": "52"
+        },
+        "1384": {
+            "name": "'vivant'",
+            "type": "1",
+            "w": "3333"
+        },
+        "330215": {
+            "name": "'bilat\u00e9ralement sym\u00e9trique'",
+            "type": "1",
+            "w": "22"
+        },
+        "15196": {
+            "name": "'blanc'",
+            "type": "1",
+            "w": "4861"
+        },
+        "2442": {
+            "name": "'vivre'",
+            "type": "1",
+            "w": "3336"
+        },
+        "124600": {
+            "name": "'mourir'",
+            "type": "1",
+            "w": "2875"
+        },
+        "251694": {
+            "name": "'mourir&gt;126720'",
+            "type": "1",
+            "w": "284",
+            "formated name": "'mourir&gt;cesser de vivre'"
+        },
+        "259820": {
+            "name": "'vivre&gt;160251'",
+            "type": "1",
+            "w": "98",
+            "formated name": "'vivre&gt;\u00eatre en vie'"
+        },
+        "105814": {
+            "name": "'regarder'",
+            "type": "1",
+            "w": "3724"
+        },
+        "15083771": {
+            "name": "'en:copulate'",
+            "type": "1",
+            "w": "0"
+        },
+        "14922684": {
+            "name": "'en:have sex'",
+            "type": "1",
+            "w": "0"
+        },
+        "15196095": {
+            "name": "'en:bump uglies'",
+            "type": "1",
+            "w": "0"
+        },
+        "15196094": {
+            "name": "'en:do the nasty'",
+            "type": "1",
+            "w": "0"
+        },
+        "15196093": {
+            "name": "'en:do the horizontal mambo jambo'",
+            "type": "1",
+            "w": "0"
+        },
+        "15196092": {
+            "name": "'en:do the hanky panky'",
+            "type": "1",
+            "w": "0"
+        },
+        "15196091": {
+            "name": "'en:rub nasties'",
+            "type": "1",
+            "w": "0"
+        },
+        "15196090": {
+            "name": "'frotter le lard ensemble'",
+            "type": "1",
+            "w": "0"
+        },
+        "15192290": {
+            "name": "'sacrifier \u00e0 V\u00e9nus'",
+            "type": "1",
+            "w": "0"
+        },
+        "15192291": {
+            "name": "'en:see God'",
+            "type": "1",
+            "w": "0"
+        },
+        "15192292": {
+            "name": "'en:pray with the knees upward'",
+            "type": "1",
+            "w": "0"
+        },
+        "6681658": {
+            "name": "'manger&gt;113902'",
+            "type": "1",
+            "w": "190",
+            "formated name": "'manger&gt;alimentation'"
+        },
+        "15441861": {
+            "name": "'en:feed yourself'",
+            "type": "1",
+            "w": "2"
+        },
+        "15449668": {
+            "name": "'en:have sexual intercourse'",
+            "type": "1",
+            "w": "0"
+        },
+        "14159777": {
+            "name": "'avoir des rapports sexuels'",
+            "type": "1",
+            "w": "0"
+        },
+        "137288": {
+            "name": "'s'alimenter'",
+            "type": "1",
+            "w": "170"
+        },
+        "436570": {
+            "name": "'entit\u00e9 biologique'",
+            "type": "1",
+            "w": "50"
+        },
+        "1655534": {
+            "name": "'c?lomate'",
+            "type": "1",
+            "w": "0"
+        },
+        "218905": {
+            "name": "'faune&gt;71539'",
+            "type": "1",
+            "w": "28",
+            "formated name": "'faune&gt;animaux'"
+        },
+        "1636805": {
+            "name": "'oeil&gt;44335'",
+            "type": "1",
+            "w": "52",
+            "formated name": "'oeil&gt;organe'"
+        },
+        "2461482": {
+            "name": "'m\u00e9tazoaire sup\u00e9rieur'",
+            "type": "1",
+            "w": "0"
+        },
+        "77424": {
+            "name": "'oeil'",
+            "type": "1",
+            "w": "3370"
+        },
+        "96211": {
+            "name": "'coeur'",
+            "type": "1",
+            "w": "2416"
+        },
+        "162763": {
+            "name": "'_INFO-SEM-THING-CONCRETE'",
+            "type": "36",
+            "w": "1238"
+        },
+        "101089": {
+            "name": "'v\u00e9g\u00e9tarien'",
+            "type": "1",
+            "w": "106"
+        },
+        "326146": {
+            "name": "'syst\u00e8me nerveux en position dorsale'",
+            "type": "1",
+            "w": "56"
+        },
+        "64238": {
+            "name": "'noir'",
+            "type": "1",
+            "w": "4508"
+        },
+        "55723": {
+            "name": "'eucalyptus'",
+            "type": "1",
+            "w": "76"
+        },
+        "88096": {
+            "name": "'gros'",
+            "type": "1",
+            "w": "3378"
+        },
+        "396149": {
+            "name": "'cynodonte'",
+            "type": "1",
+            "w": "62"
+        },
+        "316850": {
+            "name": "'entit\u00e9 physique'",
+            "type": "1",
+            "w": "50"
+        },
+        "101689": {
+            "name": "'\u00eatre anim\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "12321907": {
+            "name": "'en:eukaryote'",
+            "type": "1",
+            "w": "0"
+        },
+        "74846": {
+            "name": "'corps'",
+            "type": "1",
+            "w": "5360"
+        },
+        "108463": {
+            "name": "'ventre'",
+            "type": "1",
+            "w": "2132"
+        },
+        "141814": {
+            "name": "'vert\u00e8bre'",
+            "type": "1",
+            "w": "414"
+        },
+        "213792": {
+            "name": "'coeur&gt;213791'",
+            "type": "1",
+            "w": "218",
+            "formated name": "'coeur&gt;organe musculaire'"
+        },
+        "213644": {
+            "name": "'os&gt;116980'",
+            "type": "1",
+            "w": "434",
+            "formated name": "'os&gt;squelette'"
+        },
+        "390958": {
+            "name": "'patte arri\u00e8re'",
+            "type": "1",
+            "w": "50"
+        },
+        "6356539": {
+            "name": "'panda rouge'",
+            "type": "1",
+            "w": "0"
+        },
+        "15417050": {
+            "name": "'en:zoological gardens'",
+            "type": "1",
+            "w": "0"
+        },
+        "61280": {
+            "name": "'parc zoologique'",
+            "type": "1",
+            "w": "66"
+        },
+        "133424": {
+            "name": "'endotherme'",
+            "type": "1",
+            "w": "50"
+        },
+        "6890": {
+            "name": "'voiture'",
+            "type": "1",
+            "w": "11930"
+        },
+        "152318": {
+            "name": "'asie'",
+            "type": "1",
+            "w": "132"
+        },
+        "33446": {
+            "name": "'koala'",
+            "type": "1",
+            "w": "64"
+        },
+        "159315": {
+            "name": "'blancs'",
+            "type": "1",
+            "w": "2947"
+        },
+        "6948258": {
+            "name": "'en:mammalia'",
+            "type": "1",
+            "w": "0"
+        },
+        "109785": {
+            "name": "'peau'",
+            "type": "1",
+            "w": "4083"
+        },
+        "139779": {
+            "name": "'ADN'",
+            "type": "1",
+            "w": "1282"
+        },
+        "219363": {
+            "name": "'corps&gt;112609'",
+            "type": "1",
+            "w": "216",
+            "formated name": "'corps&gt;anatomie'"
+        },
+        "240720": {
+            "name": "'squelette&gt;112609'",
+            "type": "1",
+            "w": "156",
+            "formated name": "'squelette&gt;anatomie'"
+        },
+        "187622": {
+            "name": "'patte ant\u00e9rieure'",
+            "type": "1",
+            "w": "8"
+        },
+        "241352": {
+            "name": "'ventre&gt;112609'",
+            "type": "1",
+            "w": "144",
+            "formated name": "'ventre&gt;anatomie'"
+        },
+        "103311": {
+            "name": "'syst\u00e8me nerveux'",
+            "type": "1",
+            "w": "284"
+        },
+        "83944": {
+            "name": "'nerf'",
+            "type": "1",
+            "w": "890"
+        },
+        "126388": {
+            "name": "'articulation'",
+            "type": "1",
+            "w": "766"
+        },
+        "8990": {
+            "name": "'patte'",
+            "type": "1",
+            "w": "1784"
+        },
+        "57875": {
+            "name": "'tube digestif'",
+            "type": "1",
+            "w": "128"
+        },
+        "39031": {
+            "name": "'cerveau'",
+            "type": "1",
+            "w": "2864"
+        },
+        "114327": {
+            "name": "'acide d\u00e9soxyribonucl\u00e9ique'",
+            "type": "1",
+            "w": "140"
+        },
+        "6800353": {
+            "name": "'en:nervous system'",
+            "type": "1",
+            "w": "2"
+        },
+        "15088586": {
+            "name": "'en:systema nervosum'",
+            "type": "1",
+            "w": "0"
+        },
+        "15080160": {
+            "name": "'en:animalia'",
+            "type": "1",
+            "w": "0"
+        },
+        "187478315": {
+            "name": "'caresser un panda'",
+            "type": "1",
+            "w": "0"
+        },
+        "122864": {
+            "name": "'mort'",
+            "type": "1",
+            "w": "7465"
+        },
+        "99220": {
+            "name": "'h\u00e9t\u00e9rotrophe'",
+            "type": "1",
+            "w": "70"
+        },
+        "3576104": {
+            "name": "'Morpho:nospace'",
+            "type": "18",
+            "w": "50"
+        },
+        "253902815": {
+            "name": "'pandounet'",
+            "type": "1",
+            "w": "0"
+        },
+        "253902821": {
+            "name": "'pandanette'",
+            "type": "1",
+            "w": "0"
+        },
+        "253902824": {
+            "name": "'pandounette'",
+            "type": "1",
+            "w": "0"
+        },
+        "253903260": {
+            "name": "'Pandinette'",
+            "type": "1",
+            "w": "0"
+        },
+        "253903271": {
+            "name": "'Pandounette'",
+            "type": "1",
+            "w": "0"
+        },
+        "253903272": {
+            "name": "'Pandanette'",
+            "type": "1",
+            "w": "0"
+        },
+        "253903857": {
+            "name": "'panda\u00efen'",
+            "type": "1",
+            "w": "0"
+        },
+        "7053316": {
+            "name": "'en:metazoa'",
+            "type": "1",
+            "w": "0"
+        },
+        "143762329": {
+            "name": "'Organisme vivant'",
+            "type": "1",
+            "w": "0"
+        },
+        "6935846": {
+            "name": "'en:dna'",
+            "type": "1",
+            "w": "0"
+        },
+        "15297314": {
+            "name": "'en:deoxyribose nucleoprotein'",
+            "type": "1",
+            "w": "0"
+        },
+        "259307729": {
+            "name": "'panda natural power'",
+            "type": "1",
+            "w": "0"
+        },
+        "262436516": {
+            "name": "'t\u00eate de panda'",
+            "type": "1",
+            "w": "0"
+        },
+        "270120791": {
+            "name": "'imprim\u00e9 panda'",
+            "type": "1",
+            "w": "0"
+        },
+        "33394": {
+            "name": "'asiatique'",
+            "type": "1",
+            "w": "1715"
+        },
+        "391010": {
+            "name": "'coelom\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "1568000": {
+            "name": "':r13980882'",
+            "type": "10",
+            "w": "0"
+        },
+        "1568001": {
+            "name": "':r14028907'",
+            "type": "10",
+            "w": "0"
+        },
+        "1568002": {
+            "name": "':r13879793'",
+            "type": "10",
+            "w": "0"
+        },
+        "1568003": {
+            "name": "':r2086433'",
+            "type": "10",
+            "w": "0"
+        },
+        "164565293": {
+            "name": "':r15873319'",
+            "type": "10",
+            "w": "0"
+        },
+        "192314048": {
+            "name": "':r408603129'",
+            "type": "10",
+            "w": "0"
+        },
+        "391009": {
+            "name": "'c\u00e9lomate'",
+            "type": "1",
+            "w": "50"
+        },
+        "1567996": {
+            "name": "':r11148586'",
+            "type": "10",
+            "w": "0"
+        },
+        "1567997": {
+            "name": "':r10927128'",
+            "type": "10",
+            "w": "0"
+        },
+        "1567998": {
+            "name": "':r13722978'",
+            "type": "10",
+            "w": "0"
+        },
+        "1567999": {
+            "name": "':r13919512'",
+            "type": "10",
+            "w": "0"
+        },
+        "87789": {
+            "name": "'coelomate'",
+            "type": "1",
+            "w": "52"
+        },
+        "1567995": {
+            "name": "':r11141965'",
+            "type": "10",
+            "w": "0"
+        },
+        "25699519": {
+            "name": "':r479148237'",
+            "type": "10",
+            "w": "0"
+        },
+        "1567994": {
+            "name": "':r11135347'",
+            "type": "10",
+            "w": "0"
+        },
+        "6797233": {
+            "name": "'en:vertebra'",
+            "type": "1",
+            "w": "0"
+        },
+        "1567993": {
+            "name": "':r11128644'",
+            "type": "10",
+            "w": "0"
+        },
+        "237444": {
+            "name": "'\u00eatre&gt;94160'",
+            "type": "1",
+            "w": "64",
+            "formated name": "'\u00eatre&gt;existence'"
+        },
+        "1854036": {
+            "name": "'vertebra'",
+            "type": "1",
+            "w": "0"
+        },
+        "1567992": {
+            "name": "':r11119173'",
+            "type": "10",
+            "w": "0"
+        },
+        "167777": {
+            "name": "'R\u00e9publique populaire de Chine'",
+            "type": "1",
+            "w": "62"
+        },
+        "272716": {
+            "name": "'Genre'",
+            "type": "777",
+            "w": "3164"
+        },
+        "112576": {
+            "name": "'genre'",
+            "type": "1",
+            "w": "3785"
+        },
+        "143853": {
+            "name": "'Famille'",
+            "type": "1",
+            "w": "2693"
+        },
+        "98300": {
+            "name": "'famille'",
+            "type": "1",
+            "w": "5102"
+        },
+        "32492": {
+            "name": "'Likasi'",
+            "type": "1",
+            "w": "54"
+        },
+        "152632": {
+            "name": "'R\u00e9publique d\u00e9mocratique du Congo'",
+            "type": "1",
+            "w": "80"
+        },
+        "143558": {
+            "name": "'FIAT'",
+            "type": "1",
+            "w": "50"
+        },
+        "137831": {
+            "name": "'faire l'amour'",
+            "type": "1",
+            "w": "2014"
+        },
+        "255697": {
+            "name": "'avoir des relations sexuelles'",
+            "type": "1",
+            "w": "50"
+        },
+        "14938930": {
+            "name": "'en:fornicate'",
+            "type": "1",
+            "w": "0"
+        },
+        "65935": {
+            "name": "'co\u00efter'",
+            "type": "1",
+            "w": "70"
+        },
+        "16498289": {
+            "name": "':r409563087'",
+            "type": "10",
+            "w": "0"
+        },
+        "15204740": {
+            "name": "'en:hind paw'",
+            "type": "1",
+            "w": "0"
+        },
+        "8753255": {
+            "name": "':r177326209'",
+            "type": "10",
+            "w": "0"
+        },
+        "330963": {
+            "name": "'cord\u00e9&gt;3674'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'cord\u00e9&gt;botanique'"
+        },
+        "237441": {
+            "name": "'\u00eatre&gt;85728'",
+            "type": "1",
+            "w": "16",
+            "formated name": "'\u00eatre&gt;exister'"
+        },
+        "237443": {
+            "name": "'\u00eatre&gt;37229'",
+            "type": "1",
+            "w": "72",
+            "formated name": "'\u00eatre&gt;se trouver'"
+        },
+        "10314012": {
+            "name": "'en:heterotroph'",
+            "type": "1",
+            "w": "0"
+        },
+        "264855": {
+            "name": "'coucher ensemble'",
+            "type": "1",
+            "w": "50"
+        },
+        "138211": {
+            "name": "'s'envoyer en l'air'",
+            "type": "1",
+            "w": "156"
+        },
+        "225848": {
+            "name": "'organisme&gt;118203'",
+            "type": "1",
+            "w": "52",
+            "formated name": "'organisme&gt;corps humain'"
+        },
+        "48496": {
+            "name": "'sauvage'",
+            "type": "1",
+            "w": "2462"
+        },
+        "74183": {
+            "name": "'doux'",
+            "type": "1",
+            "w": "2340"
+        },
+        "74558": {
+            "name": "'os'",
+            "type": "1",
+            "w": "3099"
+        },
+        "15047666": {
+            "name": "'en:alimentary canal'",
+            "type": "1",
+            "w": "0"
+        },
+        "8747906": {
+            "name": "':r2985323'",
+            "type": "10",
+            "w": "0"
+        },
+        "225846": {
+            "name": "'organisme&gt;332175'",
+            "type": "1",
+            "w": "54",
+            "formated name": "'organisme&gt;ensemble des organes'"
+        },
+        "66809": {
+            "name": "'presque'",
+            "type": "1",
+            "w": "3584"
+        },
+        "13369": {
+            "name": "'\u00eatre'",
+            "type": "1",
+            "w": "4245"
+        },
+        "58768": {
+            "name": "'organisme'",
+            "type": "1",
+            "w": "2525"
+        },
+        "157007": {
+            "name": "'\u00eatre&gt;146885'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'\u00eatre&gt;Nom:Mas+SG'"
+        },
+        "14917526": {
+            "name": "'en:deoxyribonucleic acid'",
+            "type": "1",
+            "w": "0"
+        },
+        "14918011": {
+            "name": "'en:DNA'",
+            "type": "1",
+            "w": "0"
+        },
+        "94230902": {
+            "name": "'Acide D\u00e9soxyriboNucl\u00e9ique'",
+            "type": "1",
+            "w": "0"
+        },
+        "225849": {
+            "name": "'organisme&gt;86627'",
+            "type": "1",
+            "w": "52",
+            "formated name": "'organisme&gt;organisation'"
+        },
+        "247248": {
+            "name": "'os&gt;29208'",
+            "type": "1",
+            "w": "22",
+            "formated name": "'os&gt;mati\u00e8re'"
+        },
+        "213645": {
+            "name": "'os&gt;106738'",
+            "type": "1",
+            "w": "2",
+            "formated name": "'os&gt;difficult\u00e9'"
+        },
+        "14979164": {
+            "name": "':r149051402'",
+            "type": "10",
+            "w": "0"
+        },
+        "3890026": {
+            "name": "'dbnary:fra:__ws_1b_panda__nom__1'",
+            "type": "444",
+            "w": "0"
+        },
+        "4181751": {
+            "name": "'dbnary:fra:__ws_1_panda__nom__1'",
+            "type": "444",
+            "w": "0"
+        },
+        "4221687": {
+            "name": "'dbnary:fra:__ws_1a_panda__nom__1'",
+            "type": "444",
+            "w": "0"
+        },
+        "7574": {
+            "name": "'autre'",
+            "type": "1",
+            "w": "3862"
+        },
+        "131479": {
+            "name": "'diplomatie'",
+            "type": "1",
+            "w": "178"
+        },
+        "234035": {
+            "name": "'\u00eatre vivant&gt;2442'",
+            "type": "1",
+            "w": "4",
+            "formated name": "'\u00eatre vivant&gt;vivre'"
+        },
+        "237442": {
+            "name": "'\u00eatre&gt;136317'",
+            "type": "1",
+            "w": "2",
+            "formated name": "'\u00eatre&gt;appartenir'"
+        },
+        "11008333": {
+            "name": "'ADN&gt;74432'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'ADN&gt;pi\u00e8ce de th\u00e9\u00e2tre'"
+        },
+        "11008331": {
+            "name": "'ADN&gt;16644'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'ADN&gt;astronomie'"
+        },
+        "11008332": {
+            "name": "'ADN&gt;70527'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'ADN&gt;musique'"
+        },
+        "11008334": {
+            "name": "'ADN&gt;101711'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'ADN&gt;bande dessin\u00e9e'"
+        },
+        "11008339": {
+            "name": "'ADN&gt;10576'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'ADN&gt;politique'"
+        },
+        "11008330": {
+            "name": "'ADN&gt;29592'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'ADN&gt;film'"
+        },
+        "116175": {
+            "name": "'oeuf'",
+            "type": "1",
+            "w": "2656"
+        },
+        "37298": {
+            "name": "'amour'",
+            "type": "1",
+            "w": "7303"
+        },
+        "57221": {
+            "name": "'joie'",
+            "type": "1",
+            "w": "3996"
+        },
+        "47540": {
+            "name": "'miauler'",
+            "type": "1",
+            "w": "442"
+        },
+        "396146": {
+            "name": "'th\u00e9rapside'",
+            "type": "1",
+            "w": "56"
+        },
+        "102345": {
+            "name": "'plaisir'",
+            "type": "1",
+            "w": "3801"
+        }
+    },
+    "r": {
+        "23931094": {
+            "node1": "51048",
+            "node2": "239128",
+            "type": "0",
+            "w": "1000000"
+        },
+        "73962050": {
+            "node1": "51048",
+            "node2": "2983124",
+            "type": "555",
+            "w": "3456"
+        },
+        "413264328": {
+            "node1": "51048",
+            "node2": "15838478",
+            "type": "128",
+            "w": "279"
+        },
+        "9207232": {
+            "node1": "51048",
+            "node2": "241794",
+            "type": "36",
+            "w": "272"
+        },
+        "2075465": {
+            "node1": "51048",
+            "node2": "164047",
+            "type": "0",
+            "w": "256"
+        },
+        "33412110": {
+            "node1": "51048",
+            "node2": "28453",
+            "type": "32",
+            "w": "256"
+        },
+        "2037404": {
+            "node1": "51048",
+            "node2": "223173",
+            "type": "36",
+            "w": "236"
+        },
+        "271260": {
+            "node1": "51048",
+            "node2": "143291",
+            "type": "0",
+            "w": "231"
+        },
+        "33802336": {
+            "node1": "51048",
+            "node2": "14330",
+            "type": "32",
+            "w": "229"
+        },
+        "33821681": {
+            "node1": "51048",
+            "node2": "91691",
+            "type": "32",
+            "w": "229"
+        },
+        "2075466": {
+            "node1": "51048",
+            "node2": "42456",
+            "type": "0",
+            "w": "214"
+        },
+        "650823": {
+            "node1": "51048",
+            "node2": "63235",
+            "type": "6",
+            "w": "207"
+        },
+        "22756656": {
+            "node1": "51048",
+            "node2": "128961",
+            "type": "17",
+            "w": "207"
+        },
+        "1693804": {
+            "node1": "51048",
+            "node2": "17206",
+            "type": "6",
+            "w": "206"
+        },
+        "532498": {
+            "node1": "51048",
+            "node2": "48855",
+            "type": "6",
+            "w": "205"
+        },
+        "1693730": {
+            "node1": "51048",
+            "node2": "164047",
+            "type": "6",
+            "w": "205"
+        },
+        "10760652": {
+            "node1": "51048",
+            "node2": "265839",
+            "type": "6",
+            "w": "195"
+        },
+        "10765872": {
+            "node1": "51048",
+            "node2": "110773",
+            "type": "6",
+            "w": "194"
+        },
+        "10778087": {
+            "node1": "51048",
+            "node2": "91794",
+            "type": "6",
+            "w": "192"
+        },
+        "10789771": {
+            "node1": "51048",
+            "node2": "101018",
+            "type": "6",
+            "w": "191"
+        },
+        "2822102": {
+            "node1": "51048",
+            "node2": "86640",
+            "type": "6",
+            "w": "189"
+        },
+        "10862199": {
+            "node1": "51048",
+            "node2": "265277",
+            "type": "6",
+            "w": "188"
+        },
+        "10767103": {
+            "node1": "51048",
+            "node2": "264881",
+            "type": "6",
+            "w": "186"
+        },
+        "10784567": {
+            "node1": "51048",
+            "node2": "317929",
+            "type": "6",
+            "w": "180"
+        },
+        "10921923": {
+            "node1": "51048",
+            "node2": "142602",
+            "type": "6",
+            "w": "178"
+        },
+        "12045599": {
+            "node1": "51048",
+            "node2": "330964",
+            "type": "6",
+            "w": "178"
+        },
+        "2895897": {
+            "node1": "51048",
+            "node2": "248081",
+            "type": "6",
+            "w": "177"
+        },
+        "413761438": {
+            "node1": "51048",
+            "node2": "15871032",
+            "type": "128",
+            "w": "177"
+        },
+        "11254065": {
+            "node1": "51048",
+            "node2": "265220",
+            "type": "6",
+            "w": "176"
+        },
+        "532585": {
+            "node1": "51048",
+            "node2": "17559",
+            "type": "6",
+            "w": "175"
+        },
+        "10750170": {
+            "node1": "51048",
+            "node2": "115304",
+            "type": "6",
+            "w": "172"
+        },
+        "2152610": {
+            "node1": "51048",
+            "node2": "231782",
+            "type": "0",
+            "w": "171"
+        },
+        "10755457": {
+            "node1": "51048",
+            "node2": "264880",
+            "type": "6",
+            "w": "169"
+        },
+        "2152609": {
+            "node1": "51048",
+            "node2": "63235",
+            "type": "0",
+            "w": "168"
+        },
+        "10779302": {
+            "node1": "51048",
+            "node2": "264908",
+            "type": "6",
+            "w": "168"
+        },
+        "1693742": {
+            "node1": "51048",
+            "node2": "42313",
+            "type": "15",
+            "w": "165"
+        },
+        "8588300": {
+            "node1": "51048",
+            "node2": "54275",
+            "type": "11",
+            "w": "163"
+        },
+        "8608480": {
+            "node1": "51048",
+            "node2": "111848",
+            "type": "11",
+            "w": "162"
+        },
+        "8700186": {
+            "node1": "51048",
+            "node2": "231782",
+            "type": "11",
+            "w": "161"
+        },
+        "8707969": {
+            "node1": "51048",
+            "node2": "242966",
+            "type": "11",
+            "w": "161"
+        },
+        "1956265": {
+            "node1": "51048",
+            "node2": "233133",
+            "type": "6",
+            "w": "150"
+        },
+        "9611416": {
+            "node1": "51048",
+            "node2": "55823",
+            "type": "6",
+            "w": "150"
+        },
+        "11119173": {
+            "node1": "51048",
+            "node2": "325741",
+            "type": "6",
+            "w": "148"
+        },
+        "14414257": {
+            "node1": "51048",
+            "node2": "329657",
+            "type": "6",
+            "w": "140"
+        },
+        "11128644": {
+            "node1": "51048",
+            "node2": "325738",
+            "type": "6",
+            "w": "139"
+        },
+        "1693740": {
+            "node1": "51048",
+            "node2": "52611",
+            "type": "15",
+            "w": "138"
+        },
+        "1693743": {
+            "node1": "51048",
+            "node2": "146632",
+            "type": "15",
+            "w": "138"
+        },
+        "11135347": {
+            "node1": "51048",
+            "node2": "325736",
+            "type": "6",
+            "w": "133"
+        },
+        "1693741": {
+            "node1": "51048",
+            "node2": "143291",
+            "type": "15",
+            "w": "128"
+        },
+        "11141965": {
+            "node1": "51048",
+            "node2": "325731",
+            "type": "6",
+            "w": "126"
+        },
+        "11148586": {
+            "node1": "51048",
+            "node2": "325728",
+            "type": "6",
+            "w": "124"
+        },
+        "2152608": {
+            "node1": "51048",
+            "node2": "95563",
+            "type": "0",
+            "w": "120"
+        },
+        "10927128": {
+            "node1": "51048",
+            "node2": "54794",
+            "type": "6",
+            "w": "116"
+        },
+        "13919512": {
+            "node1": "51048",
+            "node2": "225847",
+            "type": "6",
+            "w": "105"
+        },
+        "14028907": {
+            "node1": "51048",
+            "node2": "237445",
+            "type": "6",
+            "w": "104"
+        },
+        "13722978": {
+            "node1": "51048",
+            "node2": "234036",
+            "type": "6",
+            "w": "101"
+        },
+        "1665119": {
+            "node1": "51048",
+            "node2": "17559",
+            "type": "0",
+            "w": "99"
+        },
+        "13879793": {
+            "node1": "51048",
+            "node2": "65081",
+            "type": "6",
+            "w": "93"
+        },
+        "414075064": {
+            "node1": "51048",
+            "node2": "15900646",
+            "type": "128",
+            "w": "91"
+        },
+        "532668": {
+            "node1": "51048",
+            "node2": "171870",
+            "type": "4",
+            "w": "88"
+        },
+        "13980882": {
+            "node1": "51048",
+            "node2": "260820",
+            "type": "6",
+            "w": "88"
+        },
+        "1694124": {
+            "node1": "51048",
+            "node2": "143607",
+            "type": "15",
+            "w": "88"
+        },
+        "1696198": {
+            "node1": "51048",
+            "node2": "224979",
+            "type": "15",
+            "w": "88"
+        },
+        "2175859": {
+            "node1": "51048",
+            "node2": "117095",
+            "type": "0",
+            "w": "87"
+        },
+        "13786966": {
+            "node1": "51048",
+            "node2": "117095",
+            "type": "3",
+            "w": "83"
+        },
+        "2086433": {
+            "node1": "51048",
+            "node2": "71624",
+            "type": "6",
+            "w": "81"
+        },
+        "1693738": {
+            "node1": "51048",
+            "node2": "103872",
+            "type": "15",
+            "w": "81"
+        },
+        "1924592": {
+            "node1": "51048",
+            "node2": "140362",
+            "type": "15",
+            "w": "80"
+        },
+        "1693744": {
+            "node1": "51048",
+            "node2": "61655",
+            "type": "15",
+            "w": "78"
+        },
+        "1694123": {
+            "node1": "51048",
+            "node2": "17023",
+            "type": "15",
+            "w": "78"
+        },
+        "1694125": {
+            "node1": "51048",
+            "node2": "58170",
+            "type": "15",
+            "w": "78"
+        },
+        "1908378": {
+            "node1": "51048",
+            "node2": "12831",
+            "type": "15",
+            "w": "78"
+        },
+        "1693806": {
+            "node1": "51048",
+            "node2": "83208",
+            "type": "15",
+            "w": "77"
+        },
+        "11275059": {
+            "node1": "51048",
+            "node2": "265220",
+            "type": "0",
+            "w": "76"
+        },
+        "11168520": {
+            "node1": "51048",
+            "node2": "325728",
+            "type": "0",
+            "w": "75"
+        },
+        "2613307": {
+            "node1": "51048",
+            "node2": "130164",
+            "type": "24",
+            "w": "75"
+        },
+        "2738741": {
+            "node1": "51048",
+            "node2": "43253",
+            "type": "24",
+            "w": "75"
+        },
+        "11181760": {
+            "node1": "51048",
+            "node2": "325731",
+            "type": "0",
+            "w": "73"
+        },
+        "560378243": {
+            "node1": "51048",
+            "node2": "213675",
+            "type": "0",
+            "w": "71"
+        },
+        "520917380": {
+            "node1": "51048",
+            "node2": "86215181",
+            "type": "128",
+            "w": "71"
+        },
+        "533027001": {
+            "node1": "51048",
+            "node2": "109319820",
+            "type": "128",
+            "w": "71"
+        },
+        "11194999": {
+            "node1": "51048",
+            "node2": "325736",
+            "type": "0",
+            "w": "70"
+        },
+        "9885153": {
+            "node1": "51048",
+            "node2": "55823",
+            "type": "0",
+            "w": "69"
+        },
+        "11208399": {
+            "node1": "51048",
+            "node2": "325738",
+            "type": "0",
+            "w": "69"
+        },
+        "10792222": {
+            "node1": "51048",
+            "node2": "101018",
+            "type": "0",
+            "w": "67"
+        },
+        "11226895": {
+            "node1": "51048",
+            "node2": "325741",
+            "type": "0",
+            "w": "67"
+        },
+        "71571518": {
+            "node1": "51048",
+            "node2": "2923439",
+            "type": "11",
+            "w": "67"
+        },
+        "10802626": {
+            "node1": "51048",
+            "node2": "317929",
+            "type": "0",
+            "w": "66"
+        },
+        "10813156": {
+            "node1": "51048",
+            "node2": "264908",
+            "type": "0",
+            "w": "66"
+        },
+        "10815586": {
+            "node1": "51048",
+            "node2": "91794",
+            "type": "0",
+            "w": "66"
+        },
+        "10920462": {
+            "node1": "51048",
+            "node2": "265277",
+            "type": "0",
+            "w": "66"
+        },
+        "10947682": {
+            "node1": "51048",
+            "node2": "54794",
+            "type": "0",
+            "w": "66"
+        },
+        "10957952": {
+            "node1": "51048",
+            "node2": "142602",
+            "type": "0",
+            "w": "66"
+        },
+        "561364033": {
+            "node1": "51048",
+            "node2": "69092",
+            "type": "0",
+            "w": "66"
+        },
+        "71571542": {
+            "node1": "51048",
+            "node2": "2923438",
+            "type": "11",
+            "w": "66"
+        },
+        "72962213": {
+            "node1": "51048",
+            "node2": "103405",
+            "type": "32",
+            "w": "66"
+        },
+        "10826076": {
+            "node1": "51048",
+            "node2": "264881",
+            "type": "0",
+            "w": "64"
+        },
+        "10828538": {
+            "node1": "51048",
+            "node2": "110773",
+            "type": "0",
+            "w": "64"
+        },
+        "10838976": {
+            "node1": "51048",
+            "node2": "265839",
+            "type": "0",
+            "w": "64"
+        },
+        "10849366": {
+            "node1": "51048",
+            "node2": "264880",
+            "type": "0",
+            "w": "63"
+        },
+        "41728": {
+            "node1": "51048",
+            "node2": "146885",
+            "type": "4",
+            "w": "63"
+        },
+        "12029239": {
+            "node1": "51048",
+            "node2": "233198",
+            "type": "24",
+            "w": "63"
+        },
+        "10859941": {
+            "node1": "51048",
+            "node2": "115304",
+            "type": "0",
+            "w": "62"
+        },
+        "12029234": {
+            "node1": "51048",
+            "node2": "7943",
+            "type": "24",
+            "w": "62"
+        },
+        "11646405": {
+            "node1": "51048",
+            "node2": "33882",
+            "type": "24",
+            "w": "61"
+        },
+        "1828101": {
+            "node1": "51048",
+            "node2": "56280",
+            "type": "9",
+            "w": "60"
+        },
+        "271261": {
+            "node1": "51048",
+            "node2": "52611",
+            "type": "0",
+            "w": "59"
+        },
+        "1583587": {
+            "node1": "51048",
+            "node2": "163012",
+            "type": "36",
+            "w": "59"
+        },
+        "1981311": {
+            "node1": "51048",
+            "node2": "144846",
+            "type": "9",
+            "w": "58"
+        },
+        "1981312": {
+            "node1": "51048",
+            "node2": "151867",
+            "type": "9",
+            "w": "57"
+        },
+        "2330889": {
+            "node1": "51048",
+            "node2": "146396",
+            "type": "15",
+            "w": "57"
+        },
+        "321161": {
+            "node1": "51048",
+            "node2": "51048",
+            "type": "19",
+            "w": "57"
+        },
+        "9800660": {
+            "node1": "51048",
+            "node2": "248081",
+            "type": "0",
+            "w": "56"
+        },
+        "76687520": {
+            "node1": "51048",
+            "node2": "3178975",
+            "type": "11",
+            "w": "56"
+        },
+        "1530883": {
+            "node1": "51048",
+            "node2": "191669",
+            "type": "36",
+            "w": "56"
+        },
+        "9782988": {
+            "node1": "51048",
+            "node2": "86640",
+            "type": "0",
+            "w": "55"
+        },
+        "9230039": {
+            "node1": "51048",
+            "node2": "254877",
+            "type": "36",
+            "w": "54"
+        },
+        "12029241": {
+            "node1": "51048",
+            "node2": "224422",
+            "type": "24",
+            "w": "53"
+        },
+        "458985373": {
+            "node1": "51048",
+            "node2": "17138367",
+            "type": "11",
+            "w": "52"
+        },
+        "472802883": {
+            "node1": "51048",
+            "node2": "16949315",
+            "type": "11",
+            "w": "52"
+        },
+        "12029235": {
+            "node1": "51048",
+            "node2": "59303",
+            "type": "24",
+            "w": "52"
+        },
+        "12029237": {
+            "node1": "51048",
+            "node2": "4653",
+            "type": "24",
+            "w": "52"
+        },
+        "12029238": {
+            "node1": "51048",
+            "node2": "16964",
+            "type": "24",
+            "w": "52"
+        },
+        "99829514": {
+            "node1": "51048",
+            "node2": "139304",
+            "type": "24",
+            "w": "52"
+        },
+        "9710146": {
+            "node1": "51048",
+            "node2": "71624",
+            "type": "0",
+            "w": "51"
+        },
+        "71673152": {
+            "node1": "51048",
+            "node2": "261960",
+            "type": "0",
+            "w": "51"
+        },
+        "71673153": {
+            "node1": "51048",
+            "node2": "54275",
+            "type": "0",
+            "w": "51"
+        },
+        "217816415": {
+            "node1": "51048",
+            "node2": "9730198",
+            "type": "11",
+            "w": "51"
+        },
+        "12431794": {
+            "node1": "51048",
+            "node2": "68979",
+            "type": "24",
+            "w": "51"
+        },
+        "12431795": {
+            "node1": "51048",
+            "node2": "92304",
+            "type": "24",
+            "w": "51"
+        },
+        "9677115": {
+            "node1": "51048",
+            "node2": "17206",
+            "type": "0",
+            "w": "50"
+        },
+        "561364035": {
+            "node1": "51048",
+            "node2": "71926",
+            "type": "0",
+            "w": "49"
+        },
+        "58013682": {
+            "node1": "51048",
+            "node2": "2476987",
+            "type": "11",
+            "w": "48"
+        },
+        "256582677": {
+            "node1": "51048",
+            "node2": "10443070",
+            "type": "11",
+            "w": "47"
+        },
+        "59504910": {
+            "node1": "51048",
+            "node2": "94312",
+            "type": "5",
+            "w": "46"
+        },
+        "2330887": {
+            "node1": "51048",
+            "node2": "254876",
+            "type": "36",
+            "w": "46"
+        },
+        "2157457": {
+            "node1": "51048",
+            "node2": "42313",
+            "type": "0",
+            "w": "45"
+        },
+        "2157463": {
+            "node1": "51048",
+            "node2": "103872",
+            "type": "0",
+            "w": "45"
+        },
+        "9690268": {
+            "node1": "51048",
+            "node2": "233133",
+            "type": "0",
+            "w": "45"
+        },
+        "54138822": {
+            "node1": "51048",
+            "node2": "2586627",
+            "type": "4",
+            "w": "45"
+        },
+        "54177941": {
+            "node1": "51048",
+            "node2": "2586629",
+            "type": "4",
+            "w": "45"
+        },
+        "3074414": {
+            "node1": "51048",
+            "node2": "47918",
+            "type": "24",
+            "w": "45"
+        },
+        "2157459": {
+            "node1": "51048",
+            "node2": "146632",
+            "type": "0",
+            "w": "44"
+        },
+        "114751179": {
+            "node1": "51048",
+            "node2": "5893568",
+            "type": "11",
+            "w": "44"
+        },
+        "115096414": {
+            "node1": "51048",
+            "node2": "5900309",
+            "type": "11",
+            "w": "44"
+        },
+        "561364034": {
+            "node1": "51048",
+            "node2": "12831",
+            "type": "0",
+            "w": "43"
+        },
+        "115872049": {
+            "node1": "51048",
+            "node2": "5907633",
+            "type": "11",
+            "w": "42"
+        },
+        "5123270": {
+            "node1": "51048",
+            "node2": "276096",
+            "type": "36",
+            "w": "42"
+        },
+        "359485571": {
+            "node1": "51048",
+            "node2": "14049844",
+            "type": "6",
+            "w": "41"
+        },
+        "114752836": {
+            "node1": "51048",
+            "node2": "5893084",
+            "type": "11",
+            "w": "41"
+        },
+        "275831578": {
+            "node1": "51048",
+            "node2": "10954565",
+            "type": "11",
+            "w": "41"
+        },
+        "390394230": {
+            "node1": "51048",
+            "node2": "7332979",
+            "type": "18",
+            "w": "41"
+        },
+        "580057419": {
+            "node1": "51048",
+            "node2": "183859986",
+            "type": "128",
+            "w": "41"
+        },
+        "589414672": {
+            "node1": "51048",
+            "node2": "200111103",
+            "type": "128",
+            "w": "41"
+        },
+        "31240924": {
+            "node1": "51048",
+            "node2": "143669",
+            "type": "0",
+            "w": "40"
+        },
+        "52539415": {
+            "node1": "51048",
+            "node2": "2578964",
+            "type": "18",
+            "w": "40"
+        },
+        "2157458": {
+            "node1": "51048",
+            "node2": "151856",
+            "type": "0",
+            "w": "39"
+        },
+        "589915454": {
+            "node1": "51048",
+            "node2": "15065704",
+            "type": "0",
+            "w": "39"
+        },
+        "2157462": {
+            "node1": "51048",
+            "node2": "128529",
+            "type": "0",
+            "w": "38"
+        },
+        "390394228": {
+            "node1": "51048",
+            "node2": "14916413",
+            "type": "18",
+            "w": "38"
+        },
+        "2157461": {
+            "node1": "51048",
+            "node2": "92189",
+            "type": "0",
+            "w": "37"
+        },
+        "2832507": {
+            "node1": "51048",
+            "node2": "233138",
+            "type": "9",
+            "w": "37"
+        },
+        "385233574": {
+            "node1": "51048",
+            "node2": "6947917",
+            "type": "3",
+            "w": "36"
+        },
+        "385263300": {
+            "node1": "51048",
+            "node2": "175720",
+            "type": "3",
+            "w": "36"
+        },
+        "80361244": {
+            "node1": "51048",
+            "node2": "267642",
+            "type": "6",
+            "w": "36"
+        },
+        "414013635": {
+            "node1": "51048",
+            "node2": "364788",
+            "type": "10",
+            "w": "36"
+        },
+        "578617163": {
+            "node1": "51048",
+            "node2": "14944747",
+            "type": "15",
+            "w": "36"
+        },
+        "288417611": {
+            "node1": "51048",
+            "node2": "242186",
+            "type": "17",
+            "w": "36"
+        },
+        "31407706": {
+            "node1": "51048",
+            "node2": "46164",
+            "type": "0",
+            "w": "35"
+        },
+        "78639852": {
+            "node1": "51048",
+            "node2": "396042",
+            "type": "6",
+            "w": "35"
+        },
+        "357272365": {
+            "node1": "51048",
+            "node2": "14049840",
+            "type": "6",
+            "w": "35"
+        },
+        "377944592": {
+            "node1": "51048",
+            "node2": "12791689",
+            "type": "9",
+            "w": "35"
+        },
+        "391313682": {
+            "node1": "51048",
+            "node2": "6800176",
+            "type": "9",
+            "w": "35"
+        },
+        "2645473": {
+            "node1": "51048",
+            "node2": "43601",
+            "type": "24",
+            "w": "35"
+        },
+        "503017503": {
+            "node1": "51048",
+            "node2": "317329",
+            "type": "36",
+            "w": "35"
+        },
+        "498535188": {
+            "node1": "51048",
+            "node2": "15091829",
+            "type": "333",
+            "w": "35"
+        },
+        "14085003": {
+            "node1": "51048",
+            "node2": "225847",
+            "type": "0",
+            "w": "34"
+        },
+        "31217047": {
+            "node1": "51048",
+            "node2": "143669",
+            "type": "3",
+            "w": "34"
+        },
+        "31390398": {
+            "node1": "51048",
+            "node2": "46164",
+            "type": "3",
+            "w": "34"
+        },
+        "390947262": {
+            "node1": "51048",
+            "node2": "14952820",
+            "type": "5",
+            "w": "34"
+        },
+        "82677507": {
+            "node1": "51048",
+            "node2": "437800",
+            "type": "6",
+            "w": "34"
+        },
+        "357107598": {
+            "node1": "51048",
+            "node2": "14049831",
+            "type": "6",
+            "w": "34"
+        },
+        "2657226": {
+            "node1": "51048",
+            "node2": "77008",
+            "type": "9",
+            "w": "34"
+        },
+        "2739755": {
+            "node1": "51048",
+            "node2": "47319",
+            "type": "9",
+            "w": "34"
+        },
+        "2746669": {
+            "node1": "51048",
+            "node2": "32735",
+            "type": "9",
+            "w": "34"
+        },
+        "2840335": {
+            "node1": "51048",
+            "node2": "116980",
+            "type": "9",
+            "w": "34"
+        },
+        "12997314": {
+            "node1": "51048",
+            "node2": "390927",
+            "type": "9",
+            "w": "34"
+        },
+        "14713634": {
+            "node1": "51048",
+            "node2": "16747",
+            "type": "9",
+            "w": "34"
+        },
+        "390394233": {
+            "node1": "51048",
+            "node2": "217817",
+            "type": "36",
+            "w": "34"
+        },
+        "498535170": {
+            "node1": "51048",
+            "node2": "50233540",
+            "type": "36",
+            "w": "34"
+        },
+        "498535179": {
+            "node1": "51048",
+            "node2": "15065704",
+            "type": "333",
+            "w": "34"
+        },
+        "78243697": {
+            "node1": "51048",
+            "node2": "3228593",
+            "type": "444",
+            "w": "34"
+        },
+        "479148237": {
+            "node1": "51048",
+            "node2": "11008328",
+            "type": "9",
+            "w": "32"
+        },
+        "2842953": {
+            "node1": "51048",
+            "node2": "120157",
+            "type": "10",
+            "w": "32"
+        },
+        "9630421": {
+            "node1": "51048",
+            "node2": "48855",
+            "type": "0",
+            "w": "31"
+        },
+        "14065436": {
+            "node1": "51048",
+            "node2": "65081",
+            "type": "0",
+            "w": "31"
+        },
+        "14127674": {
+            "node1": "51048",
+            "node2": "260820",
+            "type": "0",
+            "w": "31"
+        },
+        "618863319": {
+            "node1": "51048",
+            "node2": "15781381",
+            "type": "6",
+            "w": "31"
+        },
+        "2845918": {
+            "node1": "51048",
+            "node2": "126285",
+            "type": "9",
+            "w": "31"
+        },
+        "2635794": {
+            "node1": "51048",
+            "node2": "36886",
+            "type": "10",
+            "w": "31"
+        },
+        "483266266": {
+            "node1": "51048",
+            "node2": "14944748",
+            "type": "15",
+            "w": "31"
+        },
+        "90029538": {
+            "node1": "51048",
+            "node2": "3575927",
+            "type": "18",
+            "w": "31"
+        },
+        "417698877": {
+            "node1": "51048",
+            "node2": "15991431",
+            "type": "36",
+            "w": "31"
+        },
+        "527102659": {
+            "node1": "51048",
+            "node2": "5933353",
+            "type": "71",
+            "w": "31"
+        },
+        "390394231": {
+            "node1": "51048",
+            "node2": "14952820",
+            "type": "72",
+            "w": "31"
+        },
+        "11833719": {
+            "node1": "51048",
+            "node2": "247057",
+            "type": "0",
+            "w": "30"
+        },
+        "12445111": {
+            "node1": "51048",
+            "node2": "330964",
+            "type": "0",
+            "w": "30"
+        },
+        "14147817": {
+            "node1": "51048",
+            "node2": "237445",
+            "type": "0",
+            "w": "30"
+        },
+        "14683787": {
+            "node1": "51048",
+            "node2": "329657",
+            "type": "0",
+            "w": "30"
+        },
+        "15713310": {
+            "node1": "51048",
+            "node2": "152125",
+            "type": "0",
+            "w": "30"
+        },
+        "30900293": {
+            "node1": "51048",
+            "node2": "71539",
+            "type": "0",
+            "w": "30"
+        },
+        "30930779": {
+            "node1": "51048",
+            "node2": "32851",
+            "type": "0",
+            "w": "30"
+        },
+        "498535172": {
+            "node1": "51048",
+            "node2": "50867953",
+            "type": "0",
+            "w": "30"
+        },
+        "30877521": {
+            "node1": "51048",
+            "node2": "71539",
+            "type": "3",
+            "w": "30"
+        },
+        "391410923": {
+            "node1": "51048",
+            "node2": "14940408",
+            "type": "6",
+            "w": "30"
+        },
+        "2697864": {
+            "node1": "51048",
+            "node2": "225934",
+            "type": "9",
+            "w": "30"
+        },
+        "2740772": {
+            "node1": "51048",
+            "node2": "152844",
+            "type": "9",
+            "w": "30"
+        },
+        "2809618": {
+            "node1": "51048",
+            "node2": "187620",
+            "type": "9",
+            "w": "30"
+        },
+        "391314919": {
+            "node1": "51048",
+            "node2": "11405719",
+            "type": "9",
+            "w": "30"
+        },
+        "424947627": {
+            "node1": "51048",
+            "node2": "398564",
+            "type": "9",
+            "w": "30"
+        },
+        "413691572": {
+            "node1": "51048",
+            "node2": "15080161",
+            "type": "10",
+            "w": "30"
+        },
+        "471030249": {
+            "node1": "51048",
+            "node2": "202281",
+            "type": "15",
+            "w": "30"
+        },
+        "2700475": {
+            "node1": "51048",
+            "node2": "1384",
+            "type": "17",
+            "w": "30"
+        },
+        "11827669": {
+            "node1": "51048",
+            "node2": "330215",
+            "type": "17",
+            "w": "30"
+        },
+        "62174448": {
+            "node1": "51048",
+            "node2": "15196",
+            "type": "17",
+            "w": "30"
+        },
+        "2662847": {
+            "node1": "51048",
+            "node2": "2442",
+            "type": "24",
+            "w": "30"
+        },
+        "2686913": {
+            "node1": "51048",
+            "node2": "124600",
+            "type": "24",
+            "w": "30"
+        },
+        "2800755": {
+            "node1": "51048",
+            "node2": "251694",
+            "type": "24",
+            "w": "30"
+        },
+        "2919728": {
+            "node1": "51048",
+            "node2": "259820",
+            "type": "24",
+            "w": "30"
+        },
+        "347614094": {
+            "node1": "51048",
+            "node2": "105814",
+            "type": "24",
+            "w": "30"
+        },
+        "404834196": {
+            "node1": "51048",
+            "node2": "15083771",
+            "type": "24",
+            "w": "30"
+        },
+        "404834243": {
+            "node1": "51048",
+            "node2": "14922684",
+            "type": "24",
+            "w": "30"
+        },
+        "410038528": {
+            "node1": "51048",
+            "node2": "15196095",
+            "type": "24",
+            "w": "30"
+        },
+        "410038562": {
+            "node1": "51048",
+            "node2": "15196094",
+            "type": "24",
+            "w": "30"
+        },
+        "410038602": {
+            "node1": "51048",
+            "node2": "15196093",
+            "type": "24",
+            "w": "30"
+        },
+        "410038637": {
+            "node1": "51048",
+            "node2": "15196092",
+            "type": "24",
+            "w": "30"
+        },
+        "410038673": {
+            "node1": "51048",
+            "node2": "15196091",
+            "type": "24",
+            "w": "30"
+        },
+        "410043791": {
+            "node1": "51048",
+            "node2": "15196090",
+            "type": "24",
+            "w": "30"
+        },
+        "411580807": {
+            "node1": "51048",
+            "node2": "15192290",
+            "type": "24",
+            "w": "30"
+        },
+        "412494927": {
+            "node1": "51048",
+            "node2": "15192291",
+            "type": "24",
+            "w": "30"
+        },
+        "431518646": {
+            "node1": "51048",
+            "node2": "15192292",
+            "type": "24",
+            "w": "30"
+        },
+        "478797657": {
+            "node1": "51048",
+            "node2": "6681658",
+            "type": "24",
+            "w": "30"
+        },
+        "519133279": {
+            "node1": "51048",
+            "node2": "15441861",
+            "type": "24",
+            "w": "30"
+        },
+        "548912854": {
+            "node1": "51048",
+            "node2": "15449668",
+            "type": "24",
+            "w": "30"
+        },
+        "579842958": {
+            "node1": "51048",
+            "node2": "14159777",
+            "type": "24",
+            "w": "30"
+        },
+        "591726115": {
+            "node1": "51048",
+            "node2": "137288",
+            "type": "24",
+            "w": "30"
+        },
+        "498535173": {
+            "node1": "51048",
+            "node2": "50867953",
+            "type": "35",
+            "w": "30"
+        },
+        "415003293": {
+            "node1": "51048",
+            "node2": "128961",
+            "type": "0",
+            "w": "29"
+        },
+        "83908153": {
+            "node1": "51048",
+            "node2": "436570",
+            "type": "6",
+            "w": "29"
+        },
+        "479736594": {
+            "node1": "51048",
+            "node2": "1655534",
+            "type": "6",
+            "w": "29"
+        },
+        "636212156": {
+            "node1": "51048",
+            "node2": "218905",
+            "type": "10",
+            "w": "29"
+        },
+        "15934717": {
+            "node1": "51048",
+            "node2": "16747",
+            "type": "0",
+            "w": "28"
+        },
+        "25845025": {
+            "node1": "51048",
+            "node2": "1636805",
+            "type": "0",
+            "w": "28"
+        },
+        "532408": {
+            "node1": "51048",
+            "node2": "48855",
+            "type": "3",
+            "w": "28"
+        },
+        "383991732": {
+            "node1": "51048",
+            "node2": "2461482",
+            "type": "6",
+            "w": "28"
+        },
+        "2676601": {
+            "node1": "51048",
+            "node2": "77424",
+            "type": "9",
+            "w": "28"
+        },
+        "2778206": {
+            "node1": "51048",
+            "node2": "96211",
+            "type": "9",
+            "w": "28"
+        },
+        "25779340": {
+            "node1": "51048",
+            "node2": "1636805",
+            "type": "9",
+            "w": "28"
+        },
+        "77947795": {
+            "node1": "51048",
+            "node2": "162763",
+            "type": "36",
+            "w": "28"
+        },
+        "390394225": {
+            "node1": "51048",
+            "node2": "14952820",
+            "type": "333",
+            "w": "28"
+        },
+        "2157460": {
+            "node1": "51048",
+            "node2": "101089",
+            "type": "0",
+            "w": "27"
+        },
+        "11301682": {
+            "node1": "51048",
+            "node2": "326146",
+            "type": "0",
+            "w": "27"
+        },
+        "390947261": {
+            "node1": "51048",
+            "node2": "14952820",
+            "type": "0",
+            "w": "27"
+        },
+        "415003291": {
+            "node1": "51048",
+            "node2": "64238",
+            "type": "0",
+            "w": "27"
+        },
+        "415003294": {
+            "node1": "51048",
+            "node2": "55723",
+            "type": "0",
+            "w": "27"
+        },
+        "415003297": {
+            "node1": "51048",
+            "node2": "88096",
+            "type": "0",
+            "w": "27"
+        },
+        "415003299": {
+            "node1": "51048",
+            "node2": "15196",
+            "type": "0",
+            "w": "27"
+        },
+        "589915450": {
+            "node1": "51048",
+            "node2": "15091829",
+            "type": "0",
+            "w": "27"
+        },
+        "83348056": {
+            "node1": "51048",
+            "node2": "396149",
+            "type": "6",
+            "w": "27"
+        },
+        "83926861": {
+            "node1": "51048",
+            "node2": "316850",
+            "type": "6",
+            "w": "27"
+        },
+        "314929980": {
+            "node1": "51048",
+            "node2": "101689",
+            "type": "6",
+            "w": "27"
+        },
+        "377455583": {
+            "node1": "51048",
+            "node2": "12321907",
+            "type": "6",
+            "w": "27"
+        },
+        "2844979": {
+            "node1": "51048",
+            "node2": "74846",
+            "type": "9",
+            "w": "27"
+        },
+        "2984053": {
+            "node1": "51048",
+            "node2": "108463",
+            "type": "9",
+            "w": "27"
+        },
+        "2985323": {
+            "node1": "51048",
+            "node2": "141814",
+            "type": "9",
+            "w": "27"
+        },
+        "11259924": {
+            "node1": "51048",
+            "node2": "326146",
+            "type": "9",
+            "w": "27"
+        },
+        "11687764": {
+            "node1": "51048",
+            "node2": "213792",
+            "type": "9",
+            "w": "27"
+        },
+        "15781729": {
+            "node1": "51048",
+            "node2": "213644",
+            "type": "9",
+            "w": "27"
+        },
+        "600823196": {
+            "node1": "51048",
+            "node2": "390958",
+            "type": "9",
+            "w": "27"
+        },
+        "301808740": {
+            "node1": "51048",
+            "node2": "6356539",
+            "type": "11",
+            "w": "27"
+        },
+        "492774095": {
+            "node1": "51048",
+            "node2": "15417050",
+            "type": "15",
+            "w": "27"
+        },
+        "585213215": {
+            "node1": "51048",
+            "node2": "61280",
+            "type": "15",
+            "w": "27"
+        },
+        "2867776": {
+            "node1": "51048",
+            "node2": "133424",
+            "type": "17",
+            "w": "27"
+        },
+        "9994539": {
+            "node1": "51048",
+            "node2": "144846",
+            "type": "0",
+            "w": "26"
+        },
+        "13774670": {
+            "node1": "51048",
+            "node2": "234036",
+            "type": "0",
+            "w": "26"
+        },
+        "415003290": {
+            "node1": "51048",
+            "node2": "140362",
+            "type": "0",
+            "w": "26"
+        },
+        "415003292": {
+            "node1": "51048",
+            "node2": "6890",
+            "type": "0",
+            "w": "26"
+        },
+        "415003295": {
+            "node1": "51048",
+            "node2": "152318",
+            "type": "0",
+            "w": "26"
+        },
+        "415003296": {
+            "node1": "51048",
+            "node2": "33446",
+            "type": "0",
+            "w": "26"
+        },
+        "415003298": {
+            "node1": "51048",
+            "node2": "159315",
+            "type": "0",
+            "w": "26"
+        },
+        "30914901": {
+            "node1": "51048",
+            "node2": "32851",
+            "type": "3",
+            "w": "26"
+        },
+        "385241786": {
+            "node1": "51048",
+            "node2": "6948258",
+            "type": "3",
+            "w": "26"
+        },
+        "2761773": {
+            "node1": "51048",
+            "node2": "109785",
+            "type": "9",
+            "w": "26"
+        },
+        "2869865": {
+            "node1": "51048",
+            "node2": "139779",
+            "type": "9",
+            "w": "26"
+        },
+        "2929482": {
+            "node1": "51048",
+            "node2": "219363",
+            "type": "9",
+            "w": "26"
+        },
+        "2934838": {
+            "node1": "51048",
+            "node2": "240720",
+            "type": "9",
+            "w": "26"
+        },
+        "2939908": {
+            "node1": "51048",
+            "node2": "187622",
+            "type": "9",
+            "w": "26"
+        },
+        "2959918": {
+            "node1": "51048",
+            "node2": "241352",
+            "type": "9",
+            "w": "26"
+        },
+        "2966299": {
+            "node1": "51048",
+            "node2": "103311",
+            "type": "9",
+            "w": "26"
+        },
+        "2971338": {
+            "node1": "51048",
+            "node2": "83944",
+            "type": "9",
+            "w": "26"
+        },
+        "3038629": {
+            "node1": "51048",
+            "node2": "126388",
+            "type": "9",
+            "w": "26"
+        },
+        "3207752": {
+            "node1": "51048",
+            "node2": "8990",
+            "type": "9",
+            "w": "26"
+        },
+        "10772859": {
+            "node1": "51048",
+            "node2": "57875",
+            "type": "9",
+            "w": "26"
+        },
+        "11688914": {
+            "node1": "51048",
+            "node2": "39031",
+            "type": "9",
+            "w": "26"
+        },
+        "15873319": {
+            "node1": "51048",
+            "node2": "114327",
+            "type": "9",
+            "w": "26"
+        },
+        "515261389": {
+            "node1": "51048",
+            "node2": "6800353",
+            "type": "9",
+            "w": "26"
+        },
+        "603506933": {
+            "node1": "51048",
+            "node2": "15088586",
+            "type": "9",
+            "w": "26"
+        },
+        "579906173": {
+            "node1": "51048",
+            "node2": "15080160",
+            "type": "10",
+            "w": "26"
+        },
+        "584683662": {
+            "node1": "51048",
+            "node2": "187478315",
+            "type": "11",
+            "w": "26"
+        },
+        "2878802": {
+            "node1": "51048",
+            "node2": "122864",
+            "type": "17",
+            "w": "26"
+        },
+        "78262738": {
+            "node1": "51048",
+            "node2": "99220",
+            "type": "17",
+            "w": "26"
+        },
+        "90898565": {
+            "node1": "51048",
+            "node2": "3576104",
+            "type": "18",
+            "w": "26"
+        },
+        "648924622": {
+            "node1": "51048",
+            "node2": "253902815",
+            "type": "99",
+            "w": "26"
+        },
+        "648924638": {
+            "node1": "51048",
+            "node2": "253902821",
+            "type": "99",
+            "w": "26"
+        },
+        "648924644": {
+            "node1": "51048",
+            "node2": "253902824",
+            "type": "99",
+            "w": "26"
+        },
+        "648925621": {
+            "node1": "51048",
+            "node2": "253903260",
+            "type": "99",
+            "w": "26"
+        },
+        "648925674": {
+            "node1": "51048",
+            "node2": "253903271",
+            "type": "99",
+            "w": "26"
+        },
+        "648925676": {
+            "node1": "51048",
+            "node2": "253903272",
+            "type": "99",
+            "w": "26"
+        },
+        "648927385": {
+            "node1": "51048",
+            "node2": "253903857",
+            "type": "99",
+            "w": "26"
+        },
+        "704935358": {
+            "node1": "51048",
+            "node2": "7053316",
+            "type": "6",
+            "w": "25"
+        },
+        "706183043": {
+            "node1": "51048",
+            "node2": "143762329",
+            "type": "6",
+            "w": "25"
+        },
+        "709721573": {
+            "node1": "51048",
+            "node2": "6935846",
+            "type": "9",
+            "w": "25"
+        },
+        "709791675": {
+            "node1": "51048",
+            "node2": "15297314",
+            "type": "9",
+            "w": "25"
+        },
+        "658690563": {
+            "node1": "51048",
+            "node2": "259307729",
+            "type": "11",
+            "w": "25"
+        },
+        "661677316": {
+            "node1": "51048",
+            "node2": "262436516",
+            "type": "11",
+            "w": "25"
+        },
+        "668606252": {
+            "node1": "51048",
+            "node2": "270120791",
+            "type": "11",
+            "w": "25"
+        },
+        "9990933": {
+            "node1": "51048",
+            "node2": "56280",
+            "type": "0",
+            "w": "24"
+        },
+        "9994541": {
+            "node1": "51048",
+            "node2": "151867",
+            "type": "0",
+            "w": "24"
+        },
+        "15787246": {
+            "node1": "51048",
+            "node2": "213644",
+            "type": "0",
+            "w": "23"
+        },
+        "15917643": {
+            "node1": "51048",
+            "node2": "114327",
+            "type": "0",
+            "w": "23"
+        },
+        "59994575": {
+            "node1": "51048",
+            "node2": "94312",
+            "type": "0",
+            "w": "22"
+        },
+        "104909026": {
+            "node1": "51048",
+            "node2": "33394",
+            "type": "17",
+            "w": "22"
+        },
+        "11116365": {
+            "node1": "51048",
+            "node2": "108463",
+            "type": "0",
+            "w": "21"
+        },
+        "79934392": {
+            "node1": "51048",
+            "node2": "391010",
+            "type": "6",
+            "w": "21"
+        },
+        "25236745": {
+            "node1": "51048",
+            "node2": "1568000",
+            "type": "128",
+            "w": "21"
+        },
+        "25236749": {
+            "node1": "51048",
+            "node2": "1568001",
+            "type": "128",
+            "w": "21"
+        },
+        "25236753": {
+            "node1": "51048",
+            "node2": "1568002",
+            "type": "128",
+            "w": "21"
+        },
+        "25236757": {
+            "node1": "51048",
+            "node2": "1568003",
+            "type": "128",
+            "w": "21"
+        },
+        "555673263": {
+            "node1": "51048",
+            "node2": "164565293",
+            "type": "128",
+            "w": "21"
+        },
+        "587394704": {
+            "node1": "51048",
+            "node2": "192314048",
+            "type": "140",
+            "w": "21"
+        },
+        "79918873": {
+            "node1": "51048",
+            "node2": "391009",
+            "type": "6",
+            "w": "19"
+        },
+        "25236729": {
+            "node1": "51048",
+            "node2": "1567996",
+            "type": "128",
+            "w": "19"
+        },
+        "25236733": {
+            "node1": "51048",
+            "node2": "1567997",
+            "type": "128",
+            "w": "19"
+        },
+        "25236737": {
+            "node1": "51048",
+            "node2": "1567998",
+            "type": "128",
+            "w": "19"
+        },
+        "25236741": {
+            "node1": "51048",
+            "node2": "1567999",
+            "type": "128",
+            "w": "19"
+        },
+        "10345194": {
+            "node1": "51048",
+            "node2": "233138",
+            "type": "0",
+            "w": "17"
+        },
+        "10493796": {
+            "node1": "51048",
+            "node2": "103311",
+            "type": "0",
+            "w": "17"
+        },
+        "10503870": {
+            "node1": "51048",
+            "node2": "83944",
+            "type": "0",
+            "w": "17"
+        },
+        "10969268": {
+            "node1": "51048",
+            "node2": "57875",
+            "type": "0",
+            "w": "17"
+        },
+        "11020885": {
+            "node1": "51048",
+            "node2": "8990",
+            "type": "0",
+            "w": "17"
+        },
+        "79926632": {
+            "node1": "51048",
+            "node2": "87789",
+            "type": "6",
+            "w": "17"
+        },
+        "10481660": {
+            "node1": "51048",
+            "node2": "241352",
+            "type": "0",
+            "w": "16"
+        },
+        "11066236": {
+            "node1": "51048",
+            "node2": "126388",
+            "type": "0",
+            "w": "16"
+        },
+        "10438675": {
+            "node1": "51048",
+            "node2": "219363",
+            "type": "0",
+            "w": "15"
+        },
+        "10449365": {
+            "node1": "51048",
+            "node2": "240720",
+            "type": "0",
+            "w": "15"
+        },
+        "10459397": {
+            "node1": "51048",
+            "node2": "187622",
+            "type": "0",
+            "w": "15"
+        },
+        "629370164": {
+            "node1": "51048",
+            "node2": "175720",
+            "type": "0",
+            "w": "15"
+        },
+        "629372478": {
+            "node1": "51048",
+            "node2": "6947917",
+            "type": "0",
+            "w": "15"
+        },
+        "25236725": {
+            "node1": "51048",
+            "node2": "1567995",
+            "type": "128",
+            "w": "15"
+        },
+        "489085596": {
+            "node1": "51048",
+            "node2": "25699519",
+            "type": "128",
+            "w": "15"
+        },
+        "10348365": {
+            "node1": "51048",
+            "node2": "116980",
+            "type": "0",
+            "w": "14"
+        },
+        "10351321": {
+            "node1": "51048",
+            "node2": "74846",
+            "type": "0",
+            "w": "14"
+        },
+        "10353194": {
+            "node1": "51048",
+            "node2": "126285",
+            "type": "0",
+            "w": "14"
+        },
+        "10373081": {
+            "node1": "51048",
+            "node2": "139779",
+            "type": "0",
+            "w": "13"
+        },
+        "25236721": {
+            "node1": "51048",
+            "node2": "1567994",
+            "type": "128",
+            "w": "13"
+        },
+        "1524780": {
+            "node1": "51048",
+            "node2": "17559",
+            "type": "666",
+            "w": "13"
+        },
+        "10315580": {
+            "node1": "51048",
+            "node2": "187620",
+            "type": "0",
+            "w": "12"
+        },
+        "10536674": {
+            "node1": "51048",
+            "node2": "36886",
+            "type": "0",
+            "w": "12"
+        },
+        "10556938": {
+            "node1": "51048",
+            "node2": "120157",
+            "type": "0",
+            "w": "12"
+        },
+        "10256806": {
+            "node1": "51048",
+            "node2": "109785",
+            "type": "0",
+            "w": "11"
+        },
+        "10281713": {
+            "node1": "51048",
+            "node2": "96211",
+            "type": "0",
+            "w": "11"
+        },
+        "11705960": {
+            "node1": "51048",
+            "node2": "39031",
+            "type": "0",
+            "w": "11"
+        },
+        "11708260": {
+            "node1": "51048",
+            "node2": "213792",
+            "type": "0",
+            "w": "11"
+        },
+        "177326209": {
+            "node1": "51048",
+            "node2": "6797233",
+            "type": "9",
+            "w": "11"
+        },
+        "25236717": {
+            "node1": "51048",
+            "node2": "1567993",
+            "type": "128",
+            "w": "11"
+        },
+        "1524782": {
+            "node1": "51048",
+            "node2": "42456",
+            "type": "666",
+            "w": "10"
+        },
+        "284803563": {
+            "node1": "51048",
+            "node2": "237444",
+            "type": "999",
+            "w": "10"
+        },
+        "10216516": {
+            "node1": "51048",
+            "node2": "47319",
+            "type": "0",
+            "w": "9"
+        },
+        "10218386": {
+            "node1": "51048",
+            "node2": "152844",
+            "type": "0",
+            "w": "9"
+        },
+        "10229608": {
+            "node1": "51048",
+            "node2": "32735",
+            "type": "0",
+            "w": "9"
+        },
+        "672105013": {
+            "node1": "51048",
+            "node2": "1854036",
+            "type": "9",
+            "w": "9"
+        },
+        "25236713": {
+            "node1": "51048",
+            "node2": "1567992",
+            "type": "128",
+            "w": "9"
+        },
+        "10133051": {
+            "node1": "51048",
+            "node2": "77008",
+            "type": "0",
+            "w": "8"
+        },
+        "10165238": {
+            "node1": "51048",
+            "node2": "225934",
+            "type": "0",
+            "w": "8"
+        },
+        "5123252": {
+            "node1": "51048",
+            "node2": "167777",
+            "type": "777",
+            "w": "8"
+        },
+        "5123256": {
+            "node1": "51048",
+            "node2": "272716",
+            "type": "777",
+            "w": "8"
+        },
+        "5123257": {
+            "node1": "51048",
+            "node2": "112576",
+            "type": "777",
+            "w": "8"
+        },
+        "5123260": {
+            "node1": "51048",
+            "node2": "143853",
+            "type": "777",
+            "w": "8"
+        },
+        "5123261": {
+            "node1": "51048",
+            "node2": "98300",
+            "type": "777",
+            "w": "8"
+        },
+        "5123263": {
+            "node1": "51048",
+            "node2": "32492",
+            "type": "777",
+            "w": "8"
+        },
+        "5123265": {
+            "node1": "51048",
+            "node2": "152632",
+            "type": "777",
+            "w": "8"
+        },
+        "5123267": {
+            "node1": "51048",
+            "node2": "143558",
+            "type": "777",
+            "w": "8"
+        },
+        "640293121": {
+            "node1": "51048",
+            "node2": "137831",
+            "type": "24",
+            "w": "7"
+        },
+        "640293292": {
+            "node1": "51048",
+            "node2": "255697",
+            "type": "24",
+            "w": "7"
+        },
+        "1524781": {
+            "node1": "51048",
+            "node2": "143291",
+            "type": "666",
+            "w": "7"
+        },
+        "13134372": {
+            "node1": "51048",
+            "node2": "390927",
+            "type": "0",
+            "w": "6"
+        },
+        "653996699": {
+            "node1": "51048",
+            "node2": "14938930",
+            "type": "24",
+            "w": "6"
+        },
+        "653996774": {
+            "node1": "51048",
+            "node2": "65935",
+            "type": "24",
+            "w": "6"
+        },
+        "434070582": {
+            "node1": "51048",
+            "node2": "16498289",
+            "type": "140",
+            "w": "6"
+        },
+        "619986427": {
+            "node1": "51048",
+            "node2": "15781381",
+            "type": "0",
+            "w": "5"
+        },
+        "632077862": {
+            "node1": "51048",
+            "node2": "6948258",
+            "type": "0",
+            "w": "5"
+        },
+        "435280829": {
+            "node1": "51048",
+            "node2": "15204740",
+            "type": "9",
+            "w": "5"
+        },
+        "179417970": {
+            "node1": "51048",
+            "node2": "8753255",
+            "type": "128",
+            "w": "5"
+        },
+        "1694100": {
+            "node1": "51048",
+            "node2": "164047",
+            "type": "666",
+            "w": "5"
+        },
+        "30402184": {
+            "node1": "51048",
+            "node2": "330963",
+            "type": "999",
+            "w": "5"
+        },
+        "31894716": {
+            "node1": "51048",
+            "node2": "237441",
+            "type": "999",
+            "w": "5"
+        },
+        "31966231": {
+            "node1": "51048",
+            "node2": "237443",
+            "type": "999",
+            "w": "5"
+        },
+        "293329626": {
+            "node1": "51048",
+            "node2": "10314012",
+            "type": "17",
+            "w": "4"
+        },
+        "640293353": {
+            "node1": "51048",
+            "node2": "264855",
+            "type": "24",
+            "w": "4"
+        },
+        "654000071": {
+            "node1": "51048",
+            "node2": "138211",
+            "type": "24",
+            "w": "4"
+        },
+        "29682092": {
+            "node1": "51048",
+            "node2": "225848",
+            "type": "999",
+            "w": "4"
+        },
+        "391421039": {
+            "node1": "51048",
+            "node2": "14940408",
+            "type": "0",
+            "w": "3"
+        },
+        "634408222": {
+            "node1": "51048",
+            "node2": "48496",
+            "type": "0",
+            "w": "3"
+        },
+        "642694190": {
+            "node1": "51048",
+            "node2": "74183",
+            "type": "0",
+            "w": "3"
+        },
+        "97579654": {
+            "node1": "51048",
+            "node2": "74558",
+            "type": "9",
+            "w": "3"
+        },
+        "401789151": {
+            "node1": "51048",
+            "node2": "15047666",
+            "type": "9",
+            "w": "3"
+        },
+        "177376744": {
+            "node1": "51048",
+            "node2": "8747906",
+            "type": "128",
+            "w": "3"
+        },
+        "1524784": {
+            "node1": "51048",
+            "node2": "63235",
+            "type": "666",
+            "w": "3"
+        },
+        "1793632": {
+            "node1": "51048",
+            "node2": "128529",
+            "type": "666",
+            "w": "3"
+        },
+        "29660484": {
+            "node1": "51048",
+            "node2": "225846",
+            "type": "999",
+            "w": "3"
+        },
+        "642694192": {
+            "node1": "51048",
+            "node2": "66809",
+            "type": "0",
+            "w": "2"
+        },
+        "97731502": {
+            "node1": "51048",
+            "node2": "13369",
+            "type": "6",
+            "w": "2"
+        },
+        "97796025": {
+            "node1": "51048",
+            "node2": "58768",
+            "type": "6",
+            "w": "2"
+        },
+        "97886917": {
+            "node1": "51048",
+            "node2": "157007",
+            "type": "6",
+            "w": "2"
+        },
+        "400382743": {
+            "node1": "51048",
+            "node2": "14917526",
+            "type": "9",
+            "w": "2"
+        },
+        "436502483": {
+            "node1": "51048",
+            "node2": "14918011",
+            "type": "9",
+            "w": "2"
+        },
+        "697292943": {
+            "node1": "51048",
+            "node2": "94230902",
+            "type": "9",
+            "w": "2"
+        },
+        "1529440": {
+            "node1": "51048",
+            "node2": "151856",
+            "type": "666",
+            "w": "2"
+        },
+        "1788659": {
+            "node1": "51048",
+            "node2": "64238",
+            "type": "666",
+            "w": "2"
+        },
+        "1788660": {
+            "node1": "51048",
+            "node2": "15196",
+            "type": "666",
+            "w": "2"
+        },
+        "1793951": {
+            "node1": "51048",
+            "node2": "55723",
+            "type": "666",
+            "w": "2"
+        },
+        "1794154": {
+            "node1": "51048",
+            "node2": "17206",
+            "type": "666",
+            "w": "2"
+        },
+        "29703698": {
+            "node1": "51048",
+            "node2": "225849",
+            "type": "999",
+            "w": "2"
+        },
+        "285484204": {
+            "node1": "51048",
+            "node2": "247248",
+            "type": "999",
+            "w": "2"
+        },
+        "285485053": {
+            "node1": "51048",
+            "node2": "213645",
+            "type": "999",
+            "w": "2"
+        },
+        "631534224": {
+            "node1": "51048",
+            "node2": "14049844",
+            "type": "0",
+            "w": "1"
+        },
+        "2309587": {
+            "node1": "51048",
+            "node2": "146632",
+            "type": "6",
+            "w": "1"
+        },
+        "3158080": {
+            "node1": "51048",
+            "node2": "151856",
+            "type": "106",
+            "w": "1"
+        },
+        "3171737": {
+            "node1": "51048",
+            "node2": "64238",
+            "type": "106",
+            "w": "1"
+        },
+        "3191697": {
+            "node1": "51048",
+            "node2": "15196",
+            "type": "106",
+            "w": "1"
+        },
+        "391536506": {
+            "node1": "51048",
+            "node2": "14979164",
+            "type": "140",
+            "w": "1"
+        },
+        "94278032": {
+            "node1": "51048",
+            "node2": "3890026",
+            "type": "444",
+            "w": "1"
+        },
+        "94540102": {
+            "node1": "51048",
+            "node2": "4181751",
+            "type": "444",
+            "w": "1"
+        },
+        "94575961": {
+            "node1": "51048",
+            "node2": "4221687",
+            "type": "444",
+            "w": "1"
+        },
+        "1524783": {
+            "node1": "51048",
+            "node2": "101089",
+            "type": "666",
+            "w": "1"
+        },
+        "1788661": {
+            "node1": "51048",
+            "node2": "33394",
+            "type": "666",
+            "w": "1"
+        },
+        "1793952": {
+            "node1": "51048",
+            "node2": "7574",
+            "type": "666",
+            "w": "1"
+        },
+        "1793953": {
+            "node1": "51048",
+            "node2": "92189",
+            "type": "666",
+            "w": "1"
+        },
+        "2034219": {
+            "node1": "51048",
+            "node2": "131479",
+            "type": "666",
+            "w": "1"
+        },
+        "2154238": {
+            "node1": "51048",
+            "node2": "231782",
+            "type": "666",
+            "w": "1"
+        },
+        "2154239": {
+            "node1": "51048",
+            "node2": "54275",
+            "type": "666",
+            "w": "1"
+        },
+        "634408221": {
+            "node1": "51048",
+            "node2": "48496",
+            "type": "666",
+            "w": "1"
+        },
+        "634408223": {
+            "node1": "51048",
+            "node2": "52611",
+            "type": "666",
+            "w": "1"
+        },
+        "642694188": {
+            "node1": "51048",
+            "node2": "128961",
+            "type": "666",
+            "w": "1"
+        },
+        "642694189": {
+            "node1": "51048",
+            "node2": "74183",
+            "type": "666",
+            "w": "1"
+        },
+        "642694191": {
+            "node1": "51048",
+            "node2": "66809",
+            "type": "666",
+            "w": "1"
+        },
+        "34209737": {
+            "node1": "51048",
+            "node2": "234035",
+            "type": "999",
+            "w": "1"
+        },
+        "539750605": {
+            "node1": "51048",
+            "node2": "237442",
+            "type": "999",
+            "w": "1"
+        },
+        "539823012": {
+            "node1": "51048",
+            "node2": "11008333",
+            "type": "999",
+            "w": "1"
+        },
+        "539837847": {
+            "node1": "51048",
+            "node2": "11008331",
+            "type": "999",
+            "w": "1"
+        },
+        "539852682": {
+            "node1": "51048",
+            "node2": "11008332",
+            "type": "999",
+            "w": "1"
+        },
+        "539867518": {
+            "node1": "51048",
+            "node2": "11008334",
+            "type": "999",
+            "w": "1"
+        },
+        "539882354": {
+            "node1": "51048",
+            "node2": "11008339",
+            "type": "999",
+            "w": "1"
+        },
+        "539897189": {
+            "node1": "51048",
+            "node2": "11008330",
+            "type": "999",
+            "w": "1"
+        },
+        "10733296": {
+            "node1": "51048",
+            "node2": "116175",
+            "type": "0",
+            "w": "0"
+        },
+        "33412108": {
+            "node1": "51048",
+            "node2": "37298",
+            "type": "32",
+            "w": "-5"
+        },
+        "33412109": {
+            "node1": "51048",
+            "node2": "57221",
+            "type": "32",
+            "w": "-5"
+        },
+        "10152399": {
+            "node1": "51048",
+            "node2": "77424",
+            "type": "0",
+            "w": "-7"
+        },
+        "2506666": {
+            "node1": "51048",
+            "node2": "47540",
+            "type": "24",
+            "w": "-25"
+        },
+        "468231": {
+            "node1": "51048",
+            "node2": "63235",
+            "type": "3",
+            "w": "-26"
+        },
+        "520908": {
+            "node1": "51048",
+            "node2": "17559",
+            "type": "3",
+            "w": "-30"
+        },
+        "15647891": {
+            "node1": "51048",
+            "node2": "152125",
+            "type": "3",
+            "w": "-30"
+        },
+        "83361401": {
+            "node1": "51048",
+            "node2": "396146",
+            "type": "6",
+            "w": "-30"
+        },
+        "33412107": {
+            "node1": "51048",
+            "node2": "102345",
+            "type": "32",
+            "w": "-86"
+        }
+    },
+    "rt": {
+        "0": {
+            "trname": "'r_associated'",
+            "trgpname": "'id\u00c3\u00a9e associ\u00c3\u00a9e'",
+            "rthelp": "Il est demand\u00c3\u00a9 d'\u00c3\u00a9num\u00c3\u00a9rer les termes les plus \u00c3\u00a9troitement associ\u00c3\u00a9s au mot cible... Ce mot vous fait penser \u00c3\u00a0 quoi ?"
+        },
+        "3": {
+            "trname": "'r_domain'",
+            "trgpname": "'domaine'",
+            "rthelp": "Il est demand\u00c3\u00a9 de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'."
+        },
+        "4": {
+            "trname": "'r_pos'",
+            "trgpname": "'POS'",
+            "rthelp": "Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)"
+        },
+        "5": {
+            "trname": "'r_syn'",
+            "trgpname": "'synonyme'",
+            "rthelp": "Il est demand\u00c3\u00a9 d'\u00c3\u00a9num\u00c3\u00a9rer les synonymes ou quasi-synonymes de ce terme."
+        },
+        "6": {
+            "trname": "'r_isa'",
+            "trgpname": "'g\u00c3\u00a9n\u00c3\u00a9rique'",
+            "rthelp": "Il est demand\u00c3\u00a9 d'\u00c3\u00a9num\u00c3\u00a9rer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammif\u00c3\u00a8re' sont des g\u00c3\u00a9n\u00c3\u00a9riques de 'chat'."
+        },
+        "9": {
+            "trname": "'r_has_part'",
+            "trgpname": "'partie'",
+            "rthelp": "Il faut donner des PARTIES/constituants/\u00c3\u00a9l\u00c3\u00a9ments (a pour m\u00c3\u00a9ronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ..."
+        },
+        "10": {
+            "trname": "'r_holo'",
+            "trgpname": "'tout'",
+            "rthelp": "Il est d\u00c3\u00a9mand\u00c3\u00a9 d'\u00c3\u00a9num\u00c3\u00a9rer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour '\u00c3\u00a9l\u00c3\u00a8ve'."
+        },
+        "11": {
+            "trname": "'r_locution'",
+            "trgpname": "'locution'",
+            "rthelp": "A partir d'un terme, il est demand\u00c3\u00a9 d'\u00c3\u00a9num\u00c3\u00a9rer les locutions, expression ou mots compos\u00c3\u00a9s en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin \u00c3\u00a0 vent', 'moulin \u00c3\u00a0 eau', 'moulin \u00c3\u00a0 caf\u00c3\u00a9'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tu\u00c3\u00a9', 'vendre \u00c3\u00a0 perte', etc.."
+        },
+        "15": {
+            "trname": "'r_lieu'",
+            "trgpname": "'chose&gt;lieu'",
+            "rthelp": "Il est demand\u00c3\u00a9 d'\u00c3\u00a9num\u00c3\u00a9rer les LIEUX typiques o\u00c3\u00b9 peut se trouver le terme/objet en question. (carotte r_lieu potager)"
+        },
+        "17": {
+            "trname": "'r_carac'",
+            "trgpname": "'caract\u00c3\u00a9ristique'",
+            "rthelp": "Pour un terme donn\u00c3\u00a9, souvent un objet, il est demand\u00c3\u00a9 d'en \u00c3\u00a9num\u00c3\u00a9rer les CARACt\u00c3\u00a9ristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'."
+        },
+        "18": {
+            "trname": "'r_data'",
+            "trgpname": "'r_data'",
+            "rthelp": "Informations diverses (plut\u00c3\u00b4t d'ordre lexicales)"
+        },
+        "19": {
+            "trname": "'r_lemma'",
+            "trgpname": "'r_lemma'",
+            "rthelp": "Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir')."
+        },
+        "24": {
+            "trname": "'r_agent-1'",
+            "trgpname": "'agent typique-1'",
+            "rthelp": "Que peut faire ce SUJET ? (par exemple chat =&gt"
+        },
+        "32": {
+            "trname": "'r_sentiment'",
+            "trgpname": "'sentiment'",
+            "rthelp": "Pour un terme donn\u00c3\u00a9, \u00c3\u00a9voquer des mots li\u00c3\u00a9s \u00c3\u00a0 des SENTIMENTS ou des EMOTIONS que vous pourriez associer \u00c3\u00a0 ce terme. Par exemple, la joie, le plaisir, le d\u00c3\u00a9go\u00c3\u00bbt, la peur, la haine, l'amour, l'indiff\u00c3\u00a9rence, l'envie, avoir peur, horrible, etc."
+        },
+        "35": {
+            "trname": "'r_meaning/glose'",
+            "trgpname": "'glose/sens/signification'",
+            "rthelp": "Quels SENS/SIGNIFICATIONS pouvez vous donner au terme propos\u00c3\u00a9. Il s'agira de termes (des gloses) \u00c3\u00a9voquant chacun des sens possibles, par exemple : 'forces de l'ordre', 'contrat d'assurance', 'police typographique', ... pour 'police'."
+        },
+        "36": {
+            "trname": "'r_infopot'",
+            "trgpname": "'information potentielle'",
+            "rthelp": "Information s\u00c3\u00a9mantique potentielle"
+        },
+        "71": {
+            "trname": "'r_variante'",
+            "trgpname": "'variante'",
+            "rthelp": "Variantes du termes cible. Par exemple, yaourt, yahourt, ou encore \u00c3\u00a9v\u00c3\u00a8nement, \u00c3\u00a9v\u00c3\u00a9nement."
+        },
+        "72": {
+            "trname": "'r_syn_strict'",
+            "trgpname": "'r_syn_strict'",
+            "rthelp": "Termes strictement substituables, pour des termes hors du domaine g\u00c3\u00a9n\u00c3\u00a9ral, et pour la plupart des noms (exemple : endom\u00c3\u00a9triose intra-ut\u00c3\u00a9rine --&gt"
+        },
+        "99": {
+            "trname": "'r_der_morpho'",
+            "trgpname": "'d\u00c3\u00a9rivation morphologique'",
+            "rthelp": "Des termes d\u00c3\u00a9rivi\u00c3\u00a9s morphologiquement sont demand\u00c3\u00a9s). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc. (mais pas 'lactose'). Pour 'jardin', on mettra 'jardinier', 'jardinage', 'jardiner', etc."
+        },
+        "106": {
+            "trname": "'r_has_color'",
+            "trgpname": "'couleur'",
+            "rthelp": "A comme couleur(s)... chat r_color noir"
+        },
+        "128": {
+            "trname": "'r_node2relnode-in'",
+            "trgpname": "'r_node2relnode-in'",
+            "rthelp": "Relation entre un noeud (quelconque) et un noeud de relation (type = 10)  - connecte le noeud d'entr\u00c3\u00a9e - permet de rendre le graphe connexe m\u00c3\u00aame avec les annotations de relations"
+        },
+        "140": {
+            "trname": "'r_node2relnode-out'",
+            "trgpname": "'r_node2relnode-out'",
+            "rthelp": "Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - connecte le noeud de sortie - permet de rendre le graphe connexe m\u00c3\u00aame avec les annotations de relations"
+        },
+        "333": {
+            "trname": "'r_translation'",
+            "trgpname": "'r_translation'",
+            "rthelp": "Traduction vers une autre langue."
+        },
+        "444": {
+            "trname": "'r_link'",
+            "trgpname": "'r_link'",
+            "rthelp": "Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)"
+        },
+        "555": {
+            "trname": "'r_cooccurrence'",
+            "trgpname": "'r_cooccurrence'",
+            "rthelp": "co-occurences (non utilis\u00c3\u00a9e)"
+        },
+        "666": {
+            "trname": "'r_aki'",
+            "trgpname": "'r_aki'",
+            "rthelp": "(TOTAKI) equivalent pour TOTAKI de l'association libre"
+        },
+        "777": {
+            "trname": "'r_wiki'",
+            "trgpname": "'r_wiki'",
+            "rthelp": "Associations issues de wikipedia..."
+        },
+        "999": {
+            "trname": "'r_inhib'",
+            "trgpname": "'r_inhib'",
+            "rthelp": "relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance \u00c3\u00a0 exclure le terme associ\u00c3\u00a9."
+        }
+    }
+}
